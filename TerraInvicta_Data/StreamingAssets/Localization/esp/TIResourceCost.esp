@@ -1,0 +1,5 @@
+TIResourceCost.Cost=Coste: {0}
+TIResourceCost.CostWithCompletionTime=Coste: {0} ({1} días)
+TIResourceCost.WithCompletionTime={0} ({1} días)
+TIResourceCost.OnEarth=En la Tierra: {0}
+TIResourceCost.InSpace=En el espacio: {0}

@@ -1,0 +1,72 @@
+TIFormationTemplate.Spacing.Spread=Extendida
+TIFormationTemplate.Spacing.Loose=Abierta
+TIFormationTemplate.Spacing.Tight=Cerrada
+
+TIFormationTemplate.displayName.Staggered=Espaciada
+TIFormationTemplate.displayName.Convoy=Convoy
+TIFormationTemplate.displayName.EchelonRight=Escalonada a la derecha
+TIFormationTemplate.displayName.EchelonLeft=Escalonada a la izquierda
+TIFormationTemplate.displayName.Chevron=Chevrón
+TIFormationTemplate.displayName.TwoChevrons=Chevrón doble
+TIFormationTemplate.displayName.Arrow=Punta de flecha
+TIFormationTemplate.displayName.Line=Línea
+TIFormationTemplate.displayName.TwoLines=Muro corto
+TIFormationTemplate.displayName.ThreeLines=Muro alto
+TIFormationTemplate.displayName.Wall=Muro grande
+TIFormationTemplate.displayName.Column=Columna
+TIFormationTemplate.displayName.TwoColumn=Dúo
+TIFormationTemplate.displayName.ThreeColumn=Triple
+TIFormationTemplate.displayName.FourColumn=Cuádruple
+TIFormationTemplate.displayName.FiveColumn=Quíntuple
+TIFormationTemplate.displayName.Cloud=Nube
+TIFormationTemplate.displayName.BoxThree=Bloque
+
+TIFormationTemplate.Focus.Heavy=Pesado
+TIFormationTemplate.Focus.Ranged=Arqueros
+TIFormationTemplate.Focus.Armored=Escudos
+TIFormationTemplate.Focus.Battle=Espadas
+TIFormationTemplate.Focus.Swift=Veloz
+
+TIFormationTemplate.Concentration.Dispersed=Dispersa
+TIFormationTemplate.Concentration.Center=Centro
+TIFormationTemplate.Concentration.Right=Derecha
+TIFormationTemplate.Concentration.Left=Izquierda
+TIFormationTemplate.Concentration.Flanks=Alas
+TIFormationTemplate.Concentration.Back=Retaguardia
+TIFormationTemplate.Concentration.Front=Frente
+
+TIFormationTemplate.displayName={0} {1} {2} {3}							// Spread + Formation + Focus + Concentration, e.g. "Spread Line Archers Right." This is intended to sound a bit like a football formation and it describes how ships are laid out in space.
+TIFormationTemplate.description={0}<br/>{1} {2}
+
+TIFormationTemplate.Desc.Staggered=Espaciada
+TIFormationTemplate.Desc.Convoy=Convoy
+TIFormationTemplate.Desc.EchelonRight=Escalonada a la derecha
+TIFormationTemplate.Desc.EchelonLeft=Escalonada a la izquierda
+TIFormationTemplate.Desc.Chevron=Chevrón
+TIFormationTemplate.Desc.TwoChevrons=Dos chevrones
+TIFormationTemplate.Desc.Arrow=Chevrones cruzados
+TIFormationTemplate.Desc.Line=Línea simple
+TIFormationTemplate.Desc.TwoLines=Dos líneas agrupadas
+TIFormationTemplate.Desc.ThreeLines=Tres líneas agrupadas
+TIFormationTemplate.Desc.Wall=Cinco líneas agrupadas
+TIFormationTemplate.Desc.Column=Columna simple
+TIFormationTemplate.Desc.TwoColumn=Columna doble
+TIFormationTemplate.Desc.ThreeColumn=Columna triple
+TIFormationTemplate.Desc.FourColumn=Columna cuádruple
+TIFormationTemplate.Desc.FiveColumn=Columna quíntuple
+TIFormationTemplate.Desc.Cloud=Nube
+TIFormationTemplate.Desc.BoxThree=Caja de 3x3 
+
+TIFormationTemplate.Focus.Desc.Heavy=Naves más grandes
+TIFormationTemplate.Focus.Desc.Ranged=Naves de largo alcance
+TIFormationTemplate.Focus.Desc.Armored=Naves con más blindaje
+TIFormationTemplate.Focus.Desc.Battle=Naves más poderosas
+TIFormationTemplate.Focus.Desc.Swift=Naves más rápidas
+
+TIFormationTemplate.Concentration.Desc.Dispersed=dispersas
+TIFormationTemplate.Concentration.Desc.Center=en el centro
+TIFormationTemplate.Concentration.Desc.Right=a la derecha
+TIFormationTemplate.Concentration.Desc.Left=a la izquierda
+TIFormationTemplate.Concentration.Desc.Flanks=lejos del centro
+TIFormationTemplate.Concentration.Desc.Back=a la retaguardia
+TIFormationTemplate.Concentration.Desc.Front=al frente

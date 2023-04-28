@@ -1,0 +1,13 @@
+UI.Army.Header=Ejército
+UI.Army.Idle=Ocioso
+UI.Army.InBattle=Combatiendo
+UI.Army.Occupying=Ocupando la región ({0})
+UI.Army.DeployDescription=Dirigiéndose a la región de {0}, llegará el {1}
+UI.Army.AdviserBonus=+{0}
+UI.Army.MegafaunaHomeNation=Xenofauna indómita
+UI.Army.MegafaunaHomeNation1=Megafauna domesticada
+UI.Army.OperationTarget=, objetivo: {0}
+UI.Army.CompletionDate=, completado: {0}
+UI.Army.AtSea=En el mar
+UI.Army.AdviserTooltip=Los consejeros que asesoran a esta nación aumentan en {0} el nivel efectivo tecnológico de este ejército.
+UI.Army.HabTooltip=Los módulos en las estaciones espaciales de las facciones que estén cerca de la órbita de la Tierra aumentan en +{0} el nivel efectivo tecnológico de este ejército.
