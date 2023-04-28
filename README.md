@@ -1,5 +1,6 @@
   # Tradução para Terra Invicta
 
+![terra_invicta](https://user-images.githubusercontent.com/38070920/235264147-33e27bed-3a82-4d2b-8d86-32c752c01481.png)
 
 
    Tradução para português brasileiro
