@@ -52,7 +52,7 @@ TIMissionTemplate.description.AssumeControl=Transferiremos a la Administración 
 TIMissionTemplate.Success.AssumeControl=Hemos otorgado {targetNationNameWithArticle} a nuestros patrocinadores.
 
 TIMissionTemplate.displayName.BuildFacility=Construir instalación
-TIMissionTemplate.description.BuildFacility=Fabrica una base de investigaciones para apoyar las operaciones y el transporte de los alienígenas que, además, nos permita transferirle el control directo de las diferentes naciones de la Tierra. Requiere al menos 15 abducciones en la región.
+TIMissionTemplate.description.BuildFacility=Fabrica una base de investigaciones para apoyar las operaciones y el transporte de los alienígenas que, además, nos permita transferirle el control directo de las diferentes naciones de a Terra. Requiere al menos 15 abducciones en la región.
 TIMissionTemplate.Success.BuildFacility=Hemos fabricado una instalación segura para los alienígenas en {targetRegionName}, {targetNationNameWithPrep}. Ahora podemos optar por hacer uso de la misión de otorgar control a los alienígenas, si es que nos pertenecen todos los puntos de control de la nación.
 
 TIMissionTemplate.displayName.SetNationalPolicy=Establecer política nacional
@@ -252,7 +252,7 @@ TIMissionTemplate.Failure.Xenoform=Nuestras formas de vida no han conseguido enr
 TIMissionTemplate.CriticalFailure.Xenoform=Nuestras formas de vida no han conseguido enraizar aquí y es probable que hayan detectado mi actividad en la zona.
 
 TIMissionTemplate.displayName.Transfer=Trasladar
-TIMissionTemplate.description.Transfer=Cambia tu ubicación de un hábitat o flota a otra en cualquier lugar del espacio siempre que se encuentre en el sistema Tierra-Luna. Fuera de la Tierra, muévete a cualquier hábitat o flota que se encuentre en la misma órbita o en el mismo cuerpo celeste. Es necesario el rasgo Elusivo para viajar a puestos remotos, plataformas y naves del enemigo.
+TIMissionTemplate.description.Transfer=Cambia tu ubicación de un hábitat o flota a otra en cualquier lugar del espacio siempre que se encuentre en el sistema Tierra-Luna. Fuera de a Terra, muévete a cualquier hábitat o flota que se encuentre en la misma órbita o en el mismo cuerpo celeste. Es necesario el rasgo Elusivo para viajar a puestos remotos, plataformas y naves del enemigo.
 TIMissionTemplate.Success.Transfer=Me he desplazado hasta {targetDisplayName}.
 
 TIMissionTemplate.displayName.Turn=Captar consejero
@@ -278,7 +278,7 @@ TIMissionTemplate.CriticalFailure.DominateNation=Los líderes {targetNationNameW
 
 TIMissionTemplate.displayName.AppeaseWin=Declarar hegemonía
 TIMissionTemplate.description.AppeaseWin=Activar nuestra red de estaciones centinelas para establecer nuestro dominio sobre la política a nivel mundial y serenar, así, a los alienígenas. Todas las naciones humanas tendrán que rendirse ante nosotros. Requiere que hayamos alcanzado nuestras condiciones de victoria.
-TIMissionTemplate.Success.AppeaseWin=Hemos activado nuestra red de centinelas y, tras una pequeña demostración, las naciones de la Tierra nos han cedido su total autoridad.
+TIMissionTemplate.Success.AppeaseWin=Hemos activado nuestra red de centinelas y, tras una pequeña demostración, las naciones de a Terra nos han cedido su total autoridad.
 
 TIMissionTemplate.displayName.CooperateWin=Forjar una alianza
 TIMissionTemplate.description.CooperateWin=Mandemos a nuestros diplomáticos, aquellos resistentes al ferocito, a través de un agujero de gusano para que entablen relaciones y pongan fin al conflicto. Antes debemos asaltar la base alienígena y desembarcar. Requiere que hayamos alcanzado nuestras condiciones de victoria.
@@ -301,8 +301,8 @@ TIMissionTemplate.description.ResistWin=Activa el dispositivo para cerrar el agu
 TIMissionTemplate.Success.ResistWin=Se ha cerrado el portal enemigo.
 
 TIMissionTemplate.displayName.SubmitWin=Anunciar potestad de nuestros amos
-TIMissionTemplate.description.SubmitWin=Afirma el dominio que ejercen los alienígenas en la Tierra. Requiere que hayamos alcanzado nuestras condiciones de victoria.
-TIMissionTemplate.Success.SubmitWin=Ahora la Tierra está unida, sometida a la soberanía alienígena.
+TIMissionTemplate.description.SubmitWin=Afirma el dominio que ejercen los alienígenas en a Terra. Requiere que hayamos alcanzado nuestras condiciones de victoria.
+TIMissionTemplate.Success.SubmitWin=Ahora a Terra está unida, sometida a la soberanía alienígena.
 
 TIMissionEffect_IncreaseUnrest.Special1=Mi labor ha sido detectada. Esto ha provocado un descenso del {0} en el apoyo del público, además de una acusación contra {1} de cometer una atrocidad.										// % change, councilor's faction name
 TIMissionEffect_IncreaseUnrest.Special2=¡Mi labor ha sido detectada! ¡Los agentes de {0} están acusando a {1} de haber cometido una atrocidad y me buscan para detenerme! ¡Por favor, asegúrate de que me pongan en libertad!								// capturing faction name, councilor's faction name
@@ -449,7 +449,7 @@ TIMissionCondition_ExecutiveControl=No se puede establecer una política sin con
 TIMissionCondition_MinimumGlobalAbductions_HigherValue=Antes de poder llevar a cabo esta misión, necesitamos abducir más humanos
 TIMissionCondition_MinimumGlobalAbductions_LowerValue=Antes de poder llevar a cabo esta misión, necesitamos abducir más humanos
 TIMissionCondition_ProtectTarget=Tiene que ser parte de los nuestros
-TIMissionCondition_CouncilorOnEarth=El consejero debe estar en la Tierra
+TIMissionCondition_CouncilorOnEarth=El consejero debe estar en a Terra
 TIMissionCondition_CanConstructFacility=La región ya cuenta con una instalación
 TIMissionCondition_CanConstructFacility1=Para poder llevar a cabo esta misión debemos contar con relaciones diplomáticas con los alienígenas
 TIMissionCondition_CanConstructFacility2=Necesitamos todos los puntos de control de la región, suficientes abducciones previas y que la región no esté ocupada
@@ -460,7 +460,7 @@ TIMissionCondition_MinimumUnrest=Sin malestar en la nación objetivo
 TIMissionCondition_FactionHasStealableProjects=La facción no cuenta con proyectos que robar, que sepamos
 TIMissionCondition_HasSpySlot=No hay espacio para más espías
 TIMissionCondition_FactionHasVulnerableProjects=El objetivo no cuenta con proyectos que sabotear
-TIMissionCondition_CanLaunchToOrbit=El consejero debe encontrarse en la Tierra o en una base
+TIMissionCondition_CanLaunchToOrbit=El consejero debe encontrarse en a Terra o en una base
 TIMissionCondition_AllowedOrbitTarget=La órbita objetivo debe encontrarse dentro del rango que abarca el área de lanzamiento
 TIMissionCondition_CanTransfer=El consejero debe estar en una órbita o en un área habitable
 TIMissionCondition_AllowedTransferTarget=El objetivo para el traslado debe encontrarse en nuestro rango de alcance
@@ -476,7 +476,7 @@ TIMissionCondition_HumanNation=No se puede seleccionar una nación alienígena p
 TIMissionCondition_Human=El consejero no es humano
 TIMissionCondition_EnthrallableControlPoint=Los simpatizantes ya deben contar con un punto de control en una nación con múltiples puntos para atacar un punto de control ejecutivo
 TIMissionCondition_EnemyControlPointsInNation=La nación debe tener al menos un punto de control que no nos pertenezca
-TIMissionCondition_SentinelModulesActive=Debemos tener al menos un módulo centinela activo en la órbita de conexión de la Tierra
+TIMissionCondition_SentinelModulesActive=Debemos tener al menos un módulo centinela activo en la órbita de conexión de a Terra
 TIMissionCondition_VictoryCondition=La facción debe cumplir con todas las condiciones de victoria
 TIMissionCondition_SufficientMissionControl=Debe tener control de misiones disponible
 TIMissionCondition_FreeCouncilor=El consejero objetivo no debe estar detenido o inactivo

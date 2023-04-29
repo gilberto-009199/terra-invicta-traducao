@@ -179,7 +179,7 @@ TINarrativeEventTemplate.event_WaveofFear.summary=La esperanza condujo a un esta
 TINarrativeEventTemplate.event_WaveofFear.query=<skip/>
 TINarrativeEventTemplate.event_WaveofFear.option0=No debemos arrodillarnos ante nuestros miedos.
 TINarrativeEventTemplate.event_WaveofFear.optionDetail0=<skip/>
-TINarrativeEventTemplate.event_WaveofFear.optionResult0=Una ola de terror inunda la Tierra.
+TINarrativeEventTemplate.event_WaveofFear.optionResult0=Una ola de terror inunda a Terra.
 
 TINarrativeEventTemplate.displayName.event_LocalizedPanic=Pánico
 TINarrativeEventTemplate.event_LocalizedPanic.summary=En {targetRegionName} está a punto de surgir un foco de pánico extendido sobre los alienígenas.
@@ -239,7 +239,7 @@ TINarrativeEventTemplate.event_SuddenFlowering.option3=Declarar que la expansió
 TINarrativeEventTemplate.event_SuddenFlowering.optionDetail3=<skip/>
 TINarrativeEventTemplate.event_SuddenFlowering.optionResult3={actorNameWithArticleCap} declaró que el crecimiento repentino de xenoformas en {targetRegionName} es una señal divina.
 
-TINarrativeEventTemplate.displayName.event_BrushWar=Conflictos locales
+TINarrativeEventTemplate.displayName.event_BrushWar=Conflitos locais
 TINarrativeEventTemplate.event_BrushWar.summary=Las viejas diferencias regionales arraigadas {targetNationNameWithArticleAndPlacePrep} se han acentuado hasta desembocar en violencia abierta.
 TINarrativeEventTemplate.event_BrushWar.query=Pese a que el conflicto solo se localiza en {targetNationNameWithArticle}, el daño colateral va a empeorar. Podríamos intervenir para evitar que esto ocurra.
 TINarrativeEventTemplate.event_BrushWar.option0=Es una lástima que la gente no trabaje en comunidad.
@@ -939,14 +939,14 @@ TINarrativeEventTemplate.event_VolcanicEruption.optionResult0={summary}
 TINarrativeEventTemplate.displayName.event_MajorVolcanicEruption=Erupción volcánica grande
 TINarrativeEventTemplate.event_MajorVolcanicEruption.summary=Un enorme volcán de la región de {targetRegionName} ha entrado en erupción.
 TINarrativeEventTemplate.event_MajorVolcanicEruption.query=La erupción, bastante inusual, ha liberado una nube de piroclastos que ha destruido edificios y vegetación en cientos de kilómetros cuadrados a la redonda. La ceniza está cayendo a una gran distancia.
-TINarrativeEventTemplate.event_MajorVolcanicEruption.option0=La Tierra es un hogar hostil.
+TINarrativeEventTemplate.event_MajorVolcanicEruption.option0=a Terra es un hogar hostil.
 TINarrativeEventTemplate.event_MajorVolcanicEruption.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_MajorVolcanicEruption.optionResult0={summary}
 
 TINarrativeEventTemplate.displayName.event_ColossalVolcanicEruption=Erupción volcánica colosal
 TINarrativeEventTemplate.event_ColossalVolcanicEruption.summary=Un volcán colosal ha entrado en erupción {targetRegionNameSentIn}.
-TINarrativeEventTemplate.event_ColossalVolcanicEruption.query=Prácticamente, todo a su alrededor ha quedado destruido. La nube de calor y ceniza ha destruido pueblos enteros. Es probable que la columna de humo se disperse por toda la Tierra y la temperatura global se reduzca durante muchos meses.
-TINarrativeEventTemplate.event_ColossalVolcanicEruption.option0=La Tierra parece estar en nuestra contra.
+TINarrativeEventTemplate.event_ColossalVolcanicEruption.query=Prácticamente, todo a su alrededor ha quedado destruido. La nube de calor y ceniza ha destruido pueblos enteros. Es probable que la columna de humo se disperse por toda a Terra y la temperatura global se reduzca durante muchos meses.
+TINarrativeEventTemplate.event_ColossalVolcanicEruption.option0=a Terra parece estar en nuestra contra.
 TINarrativeEventTemplate.event_ColossalVolcanicEruption.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_ColossalVolcanicEruption.optionResult0={summary}
 
@@ -979,7 +979,7 @@ TINarrativeEventTemplate.event_LarsenAIceShelfCollapse.optionResult0={summary}
 
 TINarrativeEventTemplate.displayName.event_LarsenBIceShelfCollapse=La barrera de hielo Larsen B se derrumba
 TINarrativeEventTemplate.event_LarsenBIceShelfCollapse.summary=Parte de una capa de hielo del tamaño de Rhode Island se ha derrumbado en el océano de la Antártida.
-TINarrativeEventTemplate.event_LarsenBIceShelfCollapse.query=La barrera de hielo había persistido desde la edad de hielo, pero el calentamiento inusual de las aguas ha debilitado su estabilidad en el último siglo. Los científicos atribuyen esto a la acción humana. Las emisiones de la quema de combustibles fósiles para generar electricidad aumentó la cantidad de gases de efecto invernadero en la atmósfera de la Tierra.
+TINarrativeEventTemplate.event_LarsenBIceShelfCollapse.query=La barrera de hielo había persistido desde la edad de hielo, pero el calentamiento inusual de las aguas ha debilitado su estabilidad en el último siglo. Los científicos atribuyen esto a la acción humana. Las emisiones de la quema de combustibles fósiles para generar electricidad aumentó la cantidad de gases de efecto invernadero en la atmósfera de a Terra.
 TINarrativeEventTemplate.event_LarsenBIceShelfCollapse.option0=Preocupante.
 TINarrativeEventTemplate.event_LarsenBIceShelfCollapse.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_LarsenBIceShelfCollapse.optionResult0={summary}
@@ -1174,7 +1174,7 @@ TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.optionResult2={targ
 
 TINarrativeEventTemplate.displayName.event_EconomicCollapseRelief_Aliens=Los alienígenas ofrecen asistencia económica
 TINarrativeEventTemplate.event_EconomicCollapseRelief_Aliens.summary=Hemos recibido una propuesta de un grupo inesperado.
-TINarrativeEventTemplate.event_EconomicCollapseRelief_Aliens.query={secondaryTargetNationNameWithArticleCap} ofrece asistencia humanitaria imprescindible para los ciudadanos {targetNationAdjective}, que sufren las consecuencias de una recesión económica. La cuantía de la ayuda ofrecida es enorme, más de lo que cualquier sistema de gobierno de la Tierra podría recaudar en tan poco tiempo. Todo lo que piden a cambio es que la gente de {targetNationNameWithArticle} prometa aliarse con {secondaryFactionName}.
+TINarrativeEventTemplate.event_EconomicCollapseRelief_Aliens.query={secondaryTargetNationNameWithArticleCap} ofrece asistencia humanitaria imprescindible para los ciudadanos {targetNationAdjective}, que sufren las consecuencias de una recesión económica. La cuantía de la ayuda ofrecida es enorme, más de lo que cualquier sistema de gobierno de a Terra podría recaudar en tan poco tiempo. Todo lo que piden a cambio es que la gente de {targetNationNameWithArticle} prometa aliarse con {secondaryFactionName}.
 TINarrativeEventTemplate.event_EconomicCollapseRelief_Aliens.option0=La independencia vale cualquier sacrificio.
 TINarrativeEventTemplate.event_EconomicCollapseRelief_Aliens.optionDetail0=No sucede nada.
 TINarrativeEventTemplate.event_EconomicCollapseRelief_Aliens.optionResult0={targetNationNameWithArticleCap} rechazó la oferta de asistencia económica de {secondaryTargetNationNameWithArticle}.
@@ -1184,7 +1184,7 @@ TINarrativeEventTemplate.event_EconomicCollapseRelief_Aliens.optionResult1={targ
 
 TINarrativeEventTemplate.displayName.event_SpaceBirth=Nacimiento en el espacio
 TINarrativeEventTemplate.event_SpaceBirth.summary=Una astronauta a bordo de {targetHabName} ha dado a luz.
-TINarrativeEventTemplate.event_SpaceBirth.query=Aunque madre e hijo gozan de buena salud, el plan es trasladar al recién nacido a la Tierra tan pronto como sea posible por razones médicas.<br/><br/>Claramente, esto no formaba parte de los planes de la misión; aunque, ¿cuándo forma parte del plan, en realidad?
+TINarrativeEventTemplate.event_SpaceBirth.query=Aunque madre e hijo gozan de buena salud, el plan es trasladar al recién nacido a a Terra tan pronto como sea posible por razones médicas.<br/><br/>Claramente, esto no formaba parte de los planes de la misión; aunque, ¿cuándo forma parte del plan, en realidad?
 TINarrativeEventTemplate.event_SpaceBirth.option0=Imagina, ¡vida en el espacio exterior!
 TINarrativeEventTemplate.event_SpaceBirth.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_SpaceBirth.optionResult0={summary}
@@ -1377,7 +1377,7 @@ TINarrativeEventTemplate.event_HabAccident.optionResult2=Un fallo del equipo des
 
 TINarrativeEventTemplate.displayName.event_HabRevoltOffer=Un hábitat se ofrece a desertar
 TINarrativeEventTemplate.event_HabRevoltOffer.summary=Hemos recibido una transmisión clandestina de la tripulación de {secondaryTargetHabName}, que trabajan para {secondaryFactionName}.
-TINarrativeEventTemplate.event_HabRevoltOffer.query=El hábitat se ofrece a desertar a {targetFactionName} por completo, porque dicen que ahora mismo las condiciones son horribles: les deben meses de salarios, apenas reciben suministros y los que reciben tienen una calidad espantosa y, para colmo, la coordinación con la Tierra es nefasta y parece que pasan de ellos. Además, se sienten desilusionados con la causa de {secondaryFactionName} y alegan que sus métodos para dirigirse a los alienígenas son inefectivos y están condenados al fracaso.
+TINarrativeEventTemplate.event_HabRevoltOffer.query=El hábitat se ofrece a desertar a {targetFactionName} por completo, porque dicen que ahora mismo las condiciones son horribles: les deben meses de salarios, apenas reciben suministros y los que reciben tienen una calidad espantosa y, para colmo, la coordinación con a Terra es nefasta y parece que pasan de ellos. Además, se sienten desilusionados con la causa de {secondaryFactionName} y alegan que sus métodos para dirigirse a los alienígenas son inefectivos y están condenados al fracaso.
 TINarrativeEventTemplate.event_HabRevoltOffer.option0=Rechazar su oferta.
 TINarrativeEventTemplate.event_HabRevoltOffer.optionDetail0=No sucede nada.
 TINarrativeEventTemplate.event_HabRevoltOffer.optionResult0={actorNameWithArticleCap} rechazó la oferta de deserción de {secondaryTargetHabName}.
@@ -1387,7 +1387,7 @@ TINarrativeEventTemplate.event_HabRevoltOffer.optionResult1={actorNameWithArticl
 
 TINarrativeEventTemplate.displayName.event_HabRevolt=Revuelta en el hábitat
 TINarrativeEventTemplate.event_HabRevolt.summary=El equipo de {targetHabName} declaró sus intenciones de desertar a {secondaryFactionName}.
-TINarrativeEventTemplate.event_HabRevolt.query=Entre la lista de quejas se encuentran salarios no pagados, suministros insuficientes y de mala calidad y una falta de atención y coordinación desde la Tierra. Además, se sienten desilusionados con nuestra causa y alegan que nuestros métodos para dirigirse a los alienígenas son inefectivos y están condenados al fracaso.
+TINarrativeEventTemplate.event_HabRevolt.query=Entre la lista de quejas se encuentran salarios no pagados, suministros insuficientes y de mala calidad y una falta de atención y coordinación desde a Terra. Además, se sienten desilusionados con nuestra causa y alegan que nuestros métodos para dirigirse a los alienígenas son inefectivos y están condenados al fracaso.
 TINarrativeEventTemplate.event_HabRevolt.option0=¿Han olvidado quién es el verdadero enemigo?
 TINarrativeEventTemplate.event_HabRevolt.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_HabRevolt.optionResult0={targetHabName} desertó a {secondaryFactionName}.
@@ -1483,7 +1483,7 @@ TINarrativeEventTemplate.event_SmugglingRingUncovered.optionResult3={actorNameWi
 
 TINarrativeEventTemplate.displayName.event_SpaceGambling=Apuestas espaciales
 TINarrativeEventTemplate.event_SpaceGambling.summary=Mientras estaba en {secondaryTargetHabName} por negocios externos a la facción, {targetCouncilorFullName} no quitaba ojo al casino local.
-TINarrativeEventTemplate.event_SpaceGambling.query=Los juegos de apuestas en el espacio están causando furor entre los ricos y famosos. Este casino en concreto es más tradicional y conservador que la mayoría, con juegos muy similares a los que se pueden encontrar en la Tierra, aunque modificados para un entorno de microgravedad. Da la casualidad de que {targetCouncilorFullName} tiene una cuenta de gastos bastante jugosa quemándole en el bolsillo…
+TINarrativeEventTemplate.event_SpaceGambling.query=Los juegos de apuestas en el espacio están causando furor entre los ricos y famosos. Este casino en concreto es más tradicional y conservador que la mayoría, con juegos muy similares a los que se pueden encontrar en a Terra, aunque modificados para un entorno de microgravedad. Da la casualidad de que {targetCouncilorFullName} tiene una cuenta de gastos bastante jugosa quemándole en el bolsillo…
 TINarrativeEventTemplate.event_SpaceGambling.option0=Nada de apostar mientras se está de servicio.
 TINarrativeEventTemplate.event_SpaceGambling.optionDetail0=No sucede nada.
 TINarrativeEventTemplate.event_SpaceGambling.optionResult0={targetCouncilorFullName} no quiso apostar en juegos de azar en {secondaryTargetHabName}.
@@ -1491,10 +1491,10 @@ TINarrativeEventTemplate.event_SpaceGambling.option1=Contar cartas en el blackja
 TINarrativeEventTemplate.event_SpaceGambling.optionDetail1=<skip/>
 TINarrativeEventTemplate.event_SpaceGambling.option1.outcome0=Éxito.
 TINarrativeEventTemplate.event_SpaceGambling.option1.outcome0.Summary={targetCouncilorFullName} triunfó a lo grande en la mesa de blackjack en {secondaryTargetHabName}.
-TINarrativeEventTemplate.event_SpaceGambling.option1.outcome0.Detail=De todos los juegos de azar y habilidad que se pueden jugar en un casino de microgravedad, el blackjack es, con toda probabilidad, el menos emocionante en comparación con su equivalente en la Tierra. Los conceptos básicos del barajeo, el reparto y el conteo de cartas permanecen inalterables; da igual que el oxígeno provenga de la atmósfera o de un reciclador: la única novedad está en ver al crupier evitando que las cartas se vayan flotando. Para {targetCouncilorFullName}, era el mismo juego de siempre.
+TINarrativeEventTemplate.event_SpaceGambling.option1.outcome0.Detail=De todos los juegos de azar y habilidad que se pueden jugar en un casino de microgravedad, el blackjack es, con toda probabilidad, el menos emocionante en comparación con su equivalente en a Terra. Los conceptos básicos del barajeo, el reparto y el conteo de cartas permanecen inalterables; da igual que el oxígeno provenga de la atmósfera o de un reciclador: la única novedad está en ver al crupier evitando que las cartas se vayan flotando. Para {targetCouncilorFullName}, era el mismo juego de siempre.
 TINarrativeEventTemplate.event_SpaceGambling.option1.outcome1=Fracaso.
 TINarrativeEventTemplate.event_SpaceGambling.option1.outcome1.Summary={targetCouncilorFullName} perdió un dineral jugando al blackjack en {secondaryTargetHabName}.
-TINarrativeEventTemplate.event_SpaceGambling.option1.outcome1.Detail=De todos los juegos de azar y habilidad que se pueden jugar en un casino de microgravedad, el blackjack es, con toda probabilidad, el menos emocionante en comparación con su equivalente en la Tierra. Los conceptos básicos del barajeo, el reparto y el conteo de cartas permanecen inalterables; da igual que el oxígeno provenga de la atmósfera o de un reciclador: la única novedad está en ver al crupier evitando que las cartas se vayan flotando. Por desgracia, parece que eso bastó para distraer a {targetCouncilorFullName} y hacer que perdiera la mayoría de sus manos.
+TINarrativeEventTemplate.event_SpaceGambling.option1.outcome1.Detail=De todos los juegos de azar y habilidad que se pueden jugar en un casino de microgravedad, el blackjack es, con toda probabilidad, el menos emocionante en comparación con su equivalente en a Terra. Los conceptos básicos del barajeo, el reparto y el conteo de cartas permanecen inalterables; da igual que el oxígeno provenga de la atmósfera o de un reciclador: la única novedad está en ver al crupier evitando que las cartas se vayan flotando. Por desgracia, parece que eso bastó para distraer a {targetCouncilorFullName} y hacer que perdiera la mayoría de sus manos.
 TINarrativeEventTemplate.event_SpaceGambling.option2=Leer caras en el póker.
 TINarrativeEventTemplate.event_SpaceGambling.optionDetail2=<skip/>
 TINarrativeEventTemplate.event_SpaceGambling.option2.outcome0=Éxito.
@@ -1514,7 +1514,7 @@ TINarrativeEventTemplate.event_SpaceGambling.option3.outcome1.Detail=El billar c
 
 TINarrativeEventTemplate.displayName.event_GamblingPayout=Cobrando las apuestas
 TINarrativeEventTemplate.event_GamblingPayout.summary={targetCouncilorFullName} apenas logra contener la sonrisa mientras espera junto al cajero.
-TINarrativeEventTemplate.event_GamblingPayout.query=El personal del casino se muestra muy cortés mientras cuenta las ganancias. En el espacio se ha convertido en costumbre ofrecer el pago en dinero o en metales preciosos; el oro y el platino se han devaluado un poco por culpa de la abundancia relativa en el Sistema Solar en comparación con la Tierra, aunque siguen manteniendo valor por su aportación a la producción de hábitats y componentes de naves.<br/><br/>Por nuestra parte, aunque agradecemos esta inyección tan repentina, {targetFactionName} no aprueba el acto de lucrarse usando los recursos de la facción. Se ha condenado a {targetCouncilorFullName} por su iniciativo y se le ha prohibido que participe en juegos de apuestas durante 24 meses.
+TINarrativeEventTemplate.event_GamblingPayout.query=El personal del casino se muestra muy cortés mientras cuenta las ganancias. En el espacio se ha convertido en costumbre ofrecer el pago en dinero o en metales preciosos; el oro y el platino se han devaluado un poco por culpa de la abundancia relativa en el Sistema Solar en comparación con a Terra, aunque siguen manteniendo valor por su aportación a la producción de hábitats y componentes de naves.<br/><br/>Por nuestra parte, aunque agradecemos esta inyección tan repentina, {targetFactionName} no aprueba el acto de lucrarse usando los recursos de la facción. Se ha condenado a {targetCouncilorFullName} por su iniciativo y se le ha prohibido que participe en juegos de apuestas durante 24 meses.
 TINarrativeEventTemplate.event_GamblingPayout.option0=Aceptar el pago único en dinero en efectivo.
 TINarrativeEventTemplate.event_GamblingPayout.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_GamblingPayout.optionResult0={actorNameWithArticleCap} reclamó una gran suma en efectivo de las ganancias de {targetCouncilorFullName} en los juegos de apuestas.
@@ -1527,7 +1527,7 @@ TINarrativeEventTemplate.event_GamblingPayout.optionResult2={actorNameWithArticl
 
 TINarrativeEventTemplate.displayName.event_GamblingDebt=Deudas de apuestas
 TINarrativeEventTemplate.event_GamblingDebt.summary={targetCouncilorFullName} suda profusamente mientras espera junto al cajero.
-TINarrativeEventTemplate.event_GamblingDebt.query=El personal del casino se muestra muy cortés mientras informa a {targetCouncilorFullName} de sus obligaciones. Como pasa con la mayoría de operaciones en el espacio, el casino acepta el pago tanto en dinero como en metales preciosos. Pese a que el oro y el platino se han devaluado un poco debido a la abundancia relativa en el Sistema Solar en comparación con la Tierra, siguen manteniendo su valor en la producción de hábitats y componentes de naves.<br/><br/>Por nuestra parte, {targetFactionName} no aprueba la conducta imprudente de {targetCouncilorFullName}. Han recibido una buena bronca y tienen prohibido acercarse a los casinos durante 24 meses.
+TINarrativeEventTemplate.event_GamblingDebt.query=El personal del casino se muestra muy cortés mientras informa a {targetCouncilorFullName} de sus obligaciones. Como pasa con la mayoría de operaciones en el espacio, el casino acepta el pago tanto en dinero como en metales preciosos. Pese a que el oro y el platino se han devaluado un poco debido a la abundancia relativa en el Sistema Solar en comparación con a Terra, siguen manteniendo su valor en la producción de hábitats y componentes de naves.<br/><br/>Por nuestra parte, {targetFactionName} no aprueba la conducta imprudente de {targetCouncilorFullName}. Han recibido una buena bronca y tienen prohibido acercarse a los casinos durante 24 meses.
 TINarrativeEventTemplate.event_GamblingDebt.option0=Fraccionar la deuda por medio de un pago periódico.
 TINarrativeEventTemplate.event_GamblingDebt.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_GamblingDebt.optionResult0={actorNameWithArticleCap} se vio en la obligación de cubrir las pérdidas de {targetCouncilorFullName} en los juegos de apuestas con un pago periódico en efectivo y metales preciosos.
@@ -1544,7 +1544,7 @@ TINarrativeEventTemplate.event_GamblingDebt.option3.outcome0.Summary={targetCoun
 TINarrativeEventTemplate.event_GamblingDebt.option3.outcome0.Detail=En una secuencia no apta para cardíacos que sería digna de elogio, de no ser por los motivos fraudulentos, {targetCouncilorFullName} logró dar esquinazo a la seguridad del casino y escabullirse por {secondaryTargetHabName}. Por suerte, el casino no tiene modo de rastrear a {targetCouncilorFullName} hasta {targetFactionName}, por lo que nos hemos librado de tener que pagar la deuda.<br/><br/>Le hemos pedido que abandone {secondaryTargetHabName} tan pronto como pueda y, por supuesto, que no se le ocurra aparecer por un casino en todo el Sistema Solar.
 TINarrativeEventTemplate.event_GamblingDebt.option3.outcome1=Fracaso.
 TINarrativeEventTemplate.event_GamblingDebt.option3.outcome1.Summary={actorNameWithArticleCap} se vio en la obligación de cubrir las pérdidas de {targetCouncilorFullName} en los juegos de apuestas con un pago periódico en efectivo y metales preciosos.
-TINarrativeEventTemplate.event_GamblingDebt.option3.outcome1.Detail=Al casino no le sorprendió en absoluto que {targetCouncilorFullName} intentara zafarse de su deuda, no nos pilla por sorpresa. Una vez la seguridad del casino acabó con el vergonzoso intento de escape, entregaron a {targetCouncilorFullName} al centro local de detención.<br/><br/>Los vídeos del infame espectáculo no tardaron en llegar a la Tierra, convirtiendo a nuestra facción en el hazmerreír.
+TINarrativeEventTemplate.event_GamblingDebt.option3.outcome1.Detail=Al casino no le sorprendió en absoluto que {targetCouncilorFullName} intentara zafarse de su deuda, no nos pilla por sorpresa. Una vez la seguridad del casino acabó con el vergonzoso intento de escape, entregaron a {targetCouncilorFullName} al centro local de detención.<br/><br/>Los vídeos del infame espectáculo no tardaron en llegar a a Terra, convirtiendo a nuestra facción en el hazmerreír.
 
 TINarrativeEventTemplate.displayName.event_PaperTiger=Tigre de papel
 TINarrativeEventTemplate.event_PaperTiger.summary=Los soldados de {targetArmyNameWithArticle} están teniendo un rendimiento muy pobre en comparación a las expectativas antes de la guerra.
@@ -1638,7 +1638,7 @@ TINarrativeEventTemplate.event_CorruptGenerals.option3.outcome1.Detail=Pese a es
 
 TINarrativeEventTemplate.displayName.event_Breakthrough_Hab=Avance
 TINarrativeEventTemplate.event_Breakthrough_Hab.summary=¡Los científicos que trabajan a bordo de {targetHabName} han alcanzado metas inesperadas!
-TINarrativeEventTemplate.event_Breakthrough_Hab.query=En nuestros laboratorios de {targetHabName}, la tecnología de vanguardia combinada con el aislamiento y la privacidad que concede la distancia con la Tierra ha permitido que los investigadores vayan más allá de las fronteras de la ciencia. Como propietarios de {targetHabName}, tenemos el privilegio de anunciar al mundo la naturaleza de estos nuevos descubrimientos y decidir cómo se usarán para beneficiar a la humanidad.
+TINarrativeEventTemplate.event_Breakthrough_Hab.query=En nuestros laboratorios de {targetHabName}, la tecnología de vanguardia combinada con el aislamiento y la privacidad que concede la distancia con a Terra ha permitido que los investigadores vayan más allá de las fronteras de la ciencia. Como propietarios de {targetHabName}, tenemos el privilegio de anunciar al mundo la naturaleza de estos nuevos descubrimientos y decidir cómo se usarán para beneficiar a la humanidad.
 TINarrativeEventTemplate.event_Breakthrough_Hab.option0=Presumir de nuestra maestría científica.
 TINarrativeEventTemplate.event_Breakthrough_Hab.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_Breakthrough_Hab.optionResult0={actorNameWithArticleCap} está promoviendo los avances científicos recientes logrados en {targetHabName}.
@@ -1667,7 +1667,7 @@ TINarrativeEventTemplate.event_NuclearTerrorism.optionResult2={actorNameWithArti
 
 TINarrativeEventTemplate.displayName.event_AncientExplorers=Exploradores antiguos
 TINarrativeEventTemplate.event_AncientExplorers.summary=Nuestros exobiólogos en {targetHabName} han hecho un descubrimiento de lo más curioso.
-TINarrativeEventTemplate.event_AncientExplorers.query=Al principio pensaron que se trataba de un mero error, un fallo tonto en el protocolo de descontaminación que los estaba entusiasmando en falso. Pero al investigar las muestras confirmaron que, en efecto, eran una colección de fósiles de microbios de hace tres mil millones de años. Aunque ya se había teorizado sobre la posible existencia de vida microbiana en {secondaryTargetNaturalSpaceObjectName}, esta es la primera prueba que ha encontrado la humanidad que apoye la teoría.<br/><br/>Tras un estudio minucioso posterior en {targetHabSiteName}, se ha determinado que los microbios proceden en realidad de la Tierra y son contemporáneos con los registros fósiles microbianos de 3500 millones de años de antigüedad encontrados hace poco en Australia. Durante esa época, un asteroide o un cometa impactó con la Tierra y lanzó estos microbios al espacio. De algún modo sobrevivieron todo el trayecto hasta acabar en {secondaryTargetNaturalSpaceObjectName}, donde la presencia de atmósfera y agua permitió no solo que sobrevivieran, sino que incluso se reprodujeran y evolucionaran durante unos cuantos millones de años antes de extinguirse. ¡Menudo periplo!<br/><br/>Y pensar que si lo hubiéramos descubierto antes de que llegaran los aliens, habría sido el descubrimiento científico de la década: ¡La primera prueba real de vida extraterrestre! ¡Pruebas tangibles de que la supervivencia a largo plazo en el espacio exterior es viable! ¡Incluso podría haber sentado las bases de un esfuerzo multigeneracional para terraformar otros mundos! Pero ahora... Ahora solo es una nota al pie de página a la sombra de las poderosas naves alienígenas que orbitan la Tierra.
+TINarrativeEventTemplate.event_AncientExplorers.query=Al principio pensaron que se trataba de un mero error, un fallo tonto en el protocolo de descontaminación que los estaba entusiasmando en falso. Pero al investigar las muestras confirmaron que, en efecto, eran una colección de fósiles de microbios de hace tres mil millones de años. Aunque ya se había teorizado sobre la posible existencia de vida microbiana en {secondaryTargetNaturalSpaceObjectName}, esta es la primera prueba que ha encontrado la humanidad que apoye la teoría.<br/><br/>Tras un estudio minucioso posterior en {targetHabSiteName}, se ha determinado que los microbios proceden en realidad de a Terra y son contemporáneos con los registros fósiles microbianos de 3500 millones de años de antigüedad encontrados hace poco en Australia. Durante esa época, un asteroide o un cometa impactó con a Terra y lanzó estos microbios al espacio. De algún modo sobrevivieron todo el trayecto hasta acabar en {secondaryTargetNaturalSpaceObjectName}, donde la presencia de atmósfera y agua permitió no solo que sobrevivieran, sino que incluso se reprodujeran y evolucionaran durante unos cuantos millones de años antes de extinguirse. ¡Menudo periplo!<br/><br/>Y pensar que si lo hubiéramos descubierto antes de que llegaran los aliens, habría sido el descubrimiento científico de la década: ¡La primera prueba real de vida extraterrestre! ¡Pruebas tangibles de que la supervivencia a largo plazo en el espacio exterior es viable! ¡Incluso podría haber sentado las bases de un esfuerzo multigeneracional para terraformar otros mundos! Pero ahora... Ahora solo es una nota al pie de página a la sombra de las poderosas naves alienígenas que orbitan a Terra.
 TINarrativeEventTemplate.event_AncientExplorers.option0=Está bien saber que tuvimos parientes en el universo.
 TINarrativeEventTemplate.event_AncientExplorers.optionDetail0=Aunque fueran muy, muy lejanos.
 TINarrativeEventTemplate.event_AncientExplorers.optionResult0={actorNameWithArticleCap} ha descubierto pruebas de vida microbiana de tres mil millones de años de antigüedad en {targetHabSiteName}, en {secondaryTargetNaturalSpaceObjectName}.
@@ -1777,7 +1777,7 @@ TINarrativeEventTemplate.event_ContainmentBreach3.option2.outcome1.Detail=Desesp
 
 TINarrativeEventTemplate.displayName.event_LowEarthOrbitCleanup=Limpieza de la órbita terrestre baja
 TINarrativeEventTemplate.event_LowEarthOrbitCleanup.summary=Nuestros organizadores de misiones espaciales muestran preocupación ante la cantidad de restos que se acumula en la órbita terrestre baja.
-TINarrativeEventTemplate.event_LowEarthOrbitCleanup.query=Han tomado la iniciativa de idear algunas propuestas para darle uso a nuestra capacidad espacial restante próxima a la Tierra y sacar una parte de los restos de la órbita. No solo ayudaría a disminuir el riesgo al que se enfrentan nuestras naves y hábitats en la órbita terrestre baja, también podríamos hacerlo ver como un servicio público al mundo.
+TINarrativeEventTemplate.event_LowEarthOrbitCleanup.query=Han tomado la iniciativa de idear algunas propuestas para darle uso a nuestra capacidad espacial restante próxima a a Terra y sacar una parte de los restos de la órbita. No solo ayudaría a disminuir el riesgo al que se enfrentan nuestras naves y hábitats en la órbita terrestre baja, también podríamos hacerlo ver como un servicio público al mundo.
 TINarrativeEventTemplate.event_LowEarthOrbitCleanup.option0=No podemos permitirnos desviar esos recursos de nuestras metas.
 TINarrativeEventTemplate.event_LowEarthOrbitCleanup.optionDetail0=No sucede nada.
 TINarrativeEventTemplate.event_LowEarthOrbitCleanup.optionResult0={actorNameWithArticleCap} se negó a hablar sobre el problema de los restos en la órbita terrestre baja.
@@ -1878,8 +1878,8 @@ TINarrativeEventTemplate.event_PlutoPapers.optionDetail3=Está claro que {target
 TINarrativeEventTemplate.event_PlutoPapers.optionResult3={targetCouncilorFullName} apareció en unos documentos financieros confidenciales filtrados. 
 
 TINarrativeEventTemplate.displayName.event_BackerTour=Visita guiada de los patrocinadores
-TINarrativeEventTemplate.event_BackerTour.summary=Algunos de nuestros mayores patrocinadores en la Tierra han mostrado mucho interés en visitar las instalaciones a bordo de {targetHabName}.
-TINarrativeEventTemplate.event_BackerTour.query=Aunque la tripulación ya está quejándose de que van a interrumpir su trabajo y los jefes de seguridad se llevan las manos a la cabeza por los riesgos potenciales de dejar que suba gente de fuera, otros reconocen la oportunidad de justificar la fe que depositan nuestros patrocinadores en nosotros y, a través de ellos, ejercer influencia a nuestro favor en los acontecimientos en la Tierra. Por supuesto, tendremos que cubrir los gastos del viaje.
+TINarrativeEventTemplate.event_BackerTour.summary=Algunos de nuestros mayores patrocinadores en a Terra han mostrado mucho interés en visitar las instalaciones a bordo de {targetHabName}.
+TINarrativeEventTemplate.event_BackerTour.query=Aunque la tripulación ya está quejándose de que van a interrumpir su trabajo y los jefes de seguridad se llevan las manos a la cabeza por los riesgos potenciales de dejar que suba gente de fuera, otros reconocen la oportunidad de justificar la fe que depositan nuestros patrocinadores en nosotros y, a través de ellos, ejercer influencia a nuestro favor en los acontecimientos en a Terra. Por supuesto, tendremos que cubrir los gastos del viaje.
 TINarrativeEventTemplate.event_BackerTour.option0=Que se las arreglen con una visita virtual.
 TINarrativeEventTemplate.event_BackerTour.optionDetail0=No sucede nada.
 TINarrativeEventTemplate.event_BackerTour.optionResult0={actorNameWithArticleCap} rechazó las peticiones de visitar {targetHabName}.
@@ -1911,7 +1911,7 @@ TINarrativeEventTemplate.event_PersonalityClash.optionResult3={actorNameWithArti
 
 TINarrativeEventTemplate.displayName.event_ScienceTour=Visita científica
 TINarrativeEventTemplate.event_ScienceTour.summary=Las instalaciones científicas a bordo de {targetHabName} son la envidia del Sistema Solar.
-TINarrativeEventTemplate.event_ScienceTour.query=No sorprende a nadie a estas alturas que las universidades y grupos de trabajo en la Tierra están pidiendo acceso a {targetHabName} para crear conexiones, intercambiar datos y ahondar en sus investigaciones. Algunos de nuestros científicos se alegran de esta oportunidad, mientras que otros se muestran recelosos por la intromisión de los académicos terrestres en su enclave espacial. Por supuesto, también entra en juego los gastos de su viaje.
+TINarrativeEventTemplate.event_ScienceTour.query=No sorprende a nadie a estas alturas que las universidades y grupos de trabajo en a Terra están pidiendo acceso a {targetHabName} para crear conexiones, intercambiar datos y ahondar en sus investigaciones. Algunos de nuestros científicos se alegran de esta oportunidad, mientras que otros se muestran recelosos por la intromisión de los académicos terrestres en su enclave espacial. Por supuesto, también entra en juego los gastos de su viaje.
 TINarrativeEventTemplate.event_ScienceTour.option0=Nuestros científicos trabajan mejor lejos de miradas fisgonas.
 TINarrativeEventTemplate.event_ScienceTour.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_ScienceTour.optionResult0={actorNameWithArticleCap} rechazó las peticiones de visitar {targetHabName}.
@@ -1927,7 +1927,7 @@ TINarrativeEventTemplate.event_ScienceTour.optionResult3={actorNameWithArticleCa
 
 TINarrativeEventTemplate.displayName.event_NewPulsar=Nuevo púlsar
 TINarrativeEventTemplate.event_NewPulsar.summary=Los astrofísicos a bordo de {targetSpaceShipName}, que viaja con {targetSpaceFleetName}, han observado un púlsar desconocido hasta ahora.
-TINarrativeEventTemplate.event_NewPulsar.query=Se calcula que está a varios miles de años luz de nuestro Sistema Solar. Curiosamente, no es observable por los radiotelescopios en la Tierra, lo que ha causado cierto revuelo sobre si existe de verdad o no. Por si sirve de algo, nuestros propios científicos en la Tierra han avalado su autenticidad y están analizando con entusiasmo los datos recibidos de {targetSpaceShipName} tan pronto como llegan.
+TINarrativeEventTemplate.event_NewPulsar.query=Se calcula que está a varios miles de años luz de nuestro Sistema Solar. Curiosamente, no es observable por los radiotelescopios en a Terra, lo que ha causado cierto revuelo sobre si existe de verdad o no. Por si sirve de algo, nuestros propios científicos en a Terra han avalado su autenticidad y están analizando con entusiasmo los datos recibidos de {targetSpaceShipName} tan pronto como llegan.
 TINarrativeEventTemplate.event_NewPulsar.option0=Interesante.
 TINarrativeEventTemplate.event_NewPulsar.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_NewPulsar.optionResult0={summary} 
@@ -1940,7 +1940,7 @@ TINarrativeEventTemplate.event_NewPulsar.optionResult2={summary}
 
 TINarrativeEventTemplate.displayName.event_GravitationalWave=Onda gravitatoria
 TINarrativeEventTemplate.event_GravitationalWave.summary=Los astrofísicos a bordo de {targetSpaceShipName} que viajan con {targetSpaceFleetName} aseguran haber detectado una onda gravitatoria.
-TINarrativeEventTemplate.event_GravitationalWave.query=Hasta ahora, la detección directa de ondas gravitatorias necesitaban un dispositivo especializado de interferometría láser de grandes dimensiones en la Tierra. Aunque existían propuestas para un dispositivo espacial, parece ser que la comunicación láser de punto a punto que usan {targetSpaceShipName} y {secondaryTargetSpaceShipName} creó las condiciones necesarias para detectar estas ondas en el vacío, para sorpresa de todos. Nuestros científicos y organizadores de misiones están entusiasmados.
+TINarrativeEventTemplate.event_GravitationalWave.query=Hasta ahora, la detección directa de ondas gravitatorias necesitaban un dispositivo especializado de interferometría láser de grandes dimensiones en a Terra. Aunque existían propuestas para un dispositivo espacial, parece ser que la comunicación láser de punto a punto que usan {targetSpaceShipName} y {secondaryTargetSpaceShipName} creó las condiciones necesarias para detectar estas ondas en el vacío, para sorpresa de todos. Nuestros científicos y organizadores de misiones están entusiasmados.
 TINarrativeEventTemplate.event_GravitationalWave.option0=¿A que es un acontecimiento magnífico?
 TINarrativeEventTemplate.event_GravitationalWave.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_GravitationalWave.optionResult0={summary} 
@@ -1956,7 +1956,7 @@ TINarrativeEventTemplate.event_GravitationalWave.optionResult3={summary}
 
 TINarrativeEventTemplate.displayName.event_RecentAsteroidImpact=Impacto de asteroide reciente
 TINarrativeEventTemplate.event_RecentAsteroidImpact.summary=Los exogeólogos asignados a bordo de {targetSpaceShipName}, que pertenece a {targetSpaceFleetName}, han descubierto pruebas de un impacto reciente entre asteroides en {secondaryTargetNaturalSpaceObjectName}.
-TINarrativeEventTemplate.event_RecentAsteroidImpact.query=Por supuesto, cuando dicen reciente, se refieren a hace 5000 años, cuando comenzó la historia registrada. Para nosotros es mucho tiempo, pero para la escala cronológica del sistema solar fue hace unos instantes. Este suceso tiene poca relevancia para nuestra misión, aunque nuestros científicos en la Tierra muestran su entusiasmo de todos modos.
+TINarrativeEventTemplate.event_RecentAsteroidImpact.query=Por supuesto, cuando dicen reciente, se refieren a hace 5000 años, cuando comenzó la historia registrada. Para nosotros es mucho tiempo, pero para la escala cronológica del sistema solar fue hace unos instantes. Este suceso tiene poca relevancia para nuestra misión, aunque nuestros científicos en a Terra muestran su entusiasmo de todos modos.
 TINarrativeEventTemplate.event_RecentAsteroidImpact.option0=¡Qué curioso!
 TINarrativeEventTemplate.event_RecentAsteroidImpact.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_RecentAsteroidImpact.optionResult0={summary} 
@@ -1987,7 +1987,7 @@ TINarrativeEventTemplate.event_EnergyCrisisImminent.optionDetail3=Esta proyecci�
 TINarrativeEventTemplate.event_EnergyCrisisImminent.optionResult3=La crisis energética global es inminente.
 
 TINarrativeEventTemplate.displayName.event_GlobalEnergyCrisis=Crisis energética global
-TINarrativeEventTemplate.event_GlobalEnergyCrisis.summary=Una subida repentina y dramática de los precios de la energía está llevando a las economías de la Tierra al límite.
+TINarrativeEventTemplate.event_GlobalEnergyCrisis.summary=Una subida repentina y dramática de los precios de la energía está llevando a las economías de a Terra al límite.
 TINarrativeEventTemplate.event_GlobalEnergyCrisis.query=Los analistas desconocen la causa exacta de la subida, aunque muchos culpan a la incertidumbre derivada de la llegada de los alienígenas. Lo que está claro es que las fábricas se han visto obligadas a reducir la producción o incluso cerrar, mientras que las personas que residen en climas más fríos se enfrentan al crudo invierno sin calefacción suficiente. Si no damos con fuentes de energía adicionales, la economía mundial no tardará en sufrir de escasez y recesión.<br/><br/>Por el contrario, es probable que las naciones con fácil acceso a recursos energéticos puedan capear la tormenta sin problemas e incluso lucrarse en el proceso.
 TINarrativeEventTemplate.event_GlobalEnergyCrisis.option0=Al planeta no le queda otra que instaurar un racionamiento estricto.
 TINarrativeEventTemplate.event_GlobalEnergyCrisis.optionDetail0=<skip/>
@@ -2004,7 +2004,7 @@ TINarrativeEventTemplate.event_GlobalEnergyCrisis.optionResult3=Las naciones con
 
 TINarrativeEventTemplate.displayName.event_Icequake=Sismo de hielo
 TINarrativeEventTemplate.event_Icequake.summary=Ha ocurrido un sismo de hielo en {targetHabSiteName}, que se ubica en {targetNaturalSpaceObjectName}.
-TINarrativeEventTemplate.event_Icequake.query=Nuestros exogeólogos nos informan que se trata del resultado de fuerzas de marea originadas por {targetSunOrbitingRelatedObjectName}, que actúan de forma similar a como lo hace la Luna con la Tierra. Estas fuerzas generan actividad sísmica que calienta el interior, agrieta la capa de hielo y provoca grandes géiseres de vapor de agua. Se supone que estas condiciones podrían permitir la vida bajo el hielo.
+TINarrativeEventTemplate.event_Icequake.query=Nuestros exogeólogos nos informan que se trata del resultado de fuerzas de marea originadas por {targetSunOrbitingRelatedObjectName}, que actúan de forma similar a como lo hace la Luna con a Terra. Estas fuerzas generan actividad sísmica que calienta el interior, agrieta la capa de hielo y provoca grandes géiseres de vapor de agua. Se supone que estas condiciones podrían permitir la vida bajo el hielo.
 TINarrativeEventTemplate.event_Icequake.option0=Centrarse en reparar los daños que causó el pequeño temblor.
 TINarrativeEventTemplate.event_Icequake.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_Icequake.optionResult0={summary} 
@@ -2020,7 +2020,7 @@ TINarrativeEventTemplate.event_Icequake.optionResult3={summary}
 
 TINarrativeEventTemplate.displayName.event_EmptyQuiver=Ojiva a la fuga
 TINarrativeEventTemplate.event_EmptyQuiver.summary=Un control de inventario rutinario del armamento de {targetSpaceShipName} ha revelado que falta un arma nuclear.
-TINarrativeEventTemplate.event_EmptyQuiver.query=Aunque actualmente el uso de armamento nuclear en la guerra espacial es más común y menos espectacular de lo que uno se espera, su capacidad destructiva en la Tierra sigue siendo temida. La idea de que proliferen las cargas nucleares extraviadas en el espacio es alarmante para nuestros patrocinadores en la Tierra.
+TINarrativeEventTemplate.event_EmptyQuiver.query=Aunque actualmente el uso de armamento nuclear en la guerra espacial es más común y menos espectacular de lo que uno se espera, su capacidad destructiva en a Terra sigue siendo temida. La idea de que proliferen las cargas nucleares extraviadas en el espacio es alarmante para nuestros patrocinadores en a Terra.
 TINarrativeEventTemplate.event_EmptyQuiver.option0=Ordenar a la tripulación que busque y no se deje ni un palmo de la nave sin revisar.
 TINarrativeEventTemplate.event_EmptyQuiver.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_EmptyQuiver.option0.outcome0=Éxito.
@@ -2415,7 +2415,7 @@ TINarrativeEventTemplate.event_Hijacked.option2.outcome0.Summary={actorNameWithA
 TINarrativeEventTemplate.event_Hijacked.option2.outcome0.Detail=En una auténtica demostración de habilidad, nuestro experto hackeó al hacker.  El intento de pirata no dejaba de graznar mientras devolvíamos la lanzadera a su curso original.
 TINarrativeEventTemplate.event_Hijacked.option2.outcome1=Fracaso.
 TINarrativeEventTemplate.event_Hijacked.option2.outcome1.Summary={actorNameWithArticleCap} perdió una carga a manos de un hacker.
-TINarrativeEventTemplate.event_Hijacked.option2.outcome1.Detail=Por desgracia, el hacker detectó nuestros intentos de intrusión y pudo poner la carga en una trayectoria de colisión contra la Tierra antes de que pudiéramos recuperar el control.
+TINarrativeEventTemplate.event_Hijacked.option2.outcome1.Detail=Por desgracia, el hacker detectó nuestros intentos de intrusión y pudo poner la carga en una trayectoria de colisión contra a Terra antes de que pudiéramos recuperar el control.
 TINarrativeEventTemplate.event_Hijacked.option3=Rastrear su identidad y quitarle algo de valor para devolverle el golpe.
 TINarrativeEventTemplate.event_Hijacked.optionDetail3=<skip/>
 TINarrativeEventTemplate.event_Hijacked.option3.outcome0=Éxito.
