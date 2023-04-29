@@ -205,7 +205,6 @@ TIArmyTemplate.displayName.WesternBalkans.0=1.ª Mecanizada
 TIArmyTemplate.displayName.Yemen.0=1.ª Blindada
 TIArmyTemplate.displayName.Zambia.0=64.ª Blindada
 TIArmyTemplate.displayName.Zimbabwe.0=1.º de Infantería
-
 TIArmyTemplate.displayNameWithArticle.AlienMegafauna=la Megafauna alienígena
 TIArmyTemplate.displayNameWithArticle.AlienInvader=el ejército invasor
 TIArmyTemplate.displayNameWithArticle.Afghanistan.0=el Ejército Nacional
@@ -413,7 +412,6 @@ TIArmyTemplate.displayNameWithArticle.WesternBalkans.0=la 1.ª Mecanizada
 TIArmyTemplate.displayNameWithArticle.Yemen.0=la 1.ª Blindada
 TIArmyTemplate.displayNameWithArticle.Zambia.0=la 64.ª Blindada
 TIArmyTemplate.displayNameWithArticle.Zimbabwe.0=el 1.º de Infantería
-
 TIArmyTemplate.displayName.Valparaiso.0=1.ª División del Ejército
 TIArmyTemplate.displayName.Santiago.0=6.ª División Motorizada
 TIArmyTemplate.displayName.Guyana.0=Fuerzas de Defensa
@@ -449,7 +447,6 @@ TIArmyTemplate.displayName.Cameroon.0=21.ª de Infantería motorizada
 TIArmyTemplate.displayName.Brazzaville.0=Guardia Republicana
 TIArmyTemplate.displayName.Senegambia.0=22.ª Blindada
 TIArmyTemplate.displayName.IvoryCoast.0=1.º de Infantería
-
 TIArmyTemplate.displayNameWithArticle.Valparaiso.0=la 1.ª División del Ejército
 TIArmyTemplate.displayNameWithArticle.Santiago.0=la 2.ª División Motorizada
 TIArmyTemplate.displayNameWithArticle.Guyana.0=las Fuerzas de Defensa
@@ -485,4 +482,3 @@ TIArmyTemplate.displayNameWithArticle.Cameroon.0=la 21.ª de Infantería motoriz
 TIArmyTemplate.displayNameWithArticle.Brazzaville.0=la Guardia Republicana
 TIArmyTemplate.displayNameWithArticle.Senegambia.0=la 22.ª Blindada
 TIArmyTemplate.displayNameWithArticle.IvoryCoast.0=el 1.º de Infantería
-
