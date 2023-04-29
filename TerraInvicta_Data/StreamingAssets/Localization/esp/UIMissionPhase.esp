@@ -1,6 +1,6 @@
 UI.MissionPhase.ConfirmAssignments=Confirme a atribuição da missão
 UI.MissionPhase.ConfirmPromptHeader=Advertencia:
-UI.MissionPhase.ConfirmPrompt=Cuentas con consejeros a los que no se les ha asignado ninguna misión.<br/>¿Seguro que quieres dar por terminada la fase de misiones?
+UI.MissionPhase.ConfirmPrompt=Você tem conselheiros que não receberam nenhuma missão. <br/>Tem certeza de que deseja encerrar a fase da missão?
 UI.MissionPhase.ConfirmYes=Afirmativo
 UI.MissionPhase.ConfirmNo=OH NÃO!
 UI.MissionPhase.Success=Éxito
