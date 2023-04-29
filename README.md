@@ -27,14 +27,14 @@
 | TI Army                  | :yellow_circle:       |
 | TI Batterry              | :large_blue_circle:   |
 | TI Cinematics            | :large_blue_circle:   |
-| TI Condition             | :yellow_circle:       |
-| TI Councilor             | :red_circle:          |
-| TI Councilor Type        | :yellow_circle:       |
+| TI Condition             | :large_blue_circle:   |
+| TI Councilor             | :large_blue_circle:   |
+| TI Councilor Type        | :large_blue_circle:   |
 | TI Drive                 | :red_circle:          |
 | TI Effect                | :red_circle:          |
 | TI Faction               | :yellow_circle:       |
-| TI Faction Ideology      | :red_circle:          |
-| TI Formation             | :red_circle:          |
+| TI Faction Ideology      | :large_blue_circle:   |
+| TI Formation             | :large_blue_circle:   |
 | TI Gun                   | :red_circle:          |
 | TI Hab Module            | :red_circle:          |
 | TI Hab Site              | :red_circle:          |
