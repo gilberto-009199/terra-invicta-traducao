@@ -16,81 +16,81 @@
 ## Status Es - Pt
 
 
-| Type            | Definition             |
-|-----------------|------------------------|
-| :green_circle:  | Translated and Revised |
-| :blue_circle:   | Only translated        |
-| :yellow_circle: | Partially translated   |
-| :red_circle:    | Not started            |
+| Type                  | Definition             |
+|-----------------------|------------------------|
+| :green_circle:        | Translated and Revised |
+| :large_blue_circle:   | Only translated        |
+| :yellow_circle:       | Partially translated   |
+| :red_circle:          | Not started            |
 
 
-| Files                    | Status          |
-|--------------------------|-----------------|
-| TI Army                  | :yellow_circle: |
-| TI Batterry              | :blue_circle:   |
-| TI Cinematics            | :blue_circle:   |
-| TI Condition             | :yellow_circle: |
-| TI Councilor             | :red_circle:    |
-| TI Councilor Type        | :yellow_circle: |
-| TI Drive                 | :red_circle:    |
-| TI Effect                | :red_circle:    |
-| TI Faction               | :yellow_circle: |
-| TI Faction Ideology      | :red_circle:    |
-| TI Formation             | :red_circle:    |
-| TI Gun                   | :red_circle:    |
-| TI Hab Module            | :red_circle:    |
-| TI Hab Site              | :red_circle:    |
-| TI Hab                   | :red_circle:    |
-| TI Heat Sink             | :red_circle:    |
-| TI Laser Weapon          | :red_circle:    |
-| TI Magnetic Gun          | :red_circle:    |
-| TI Meta                  | :yellow_circle: |
-| TI Mining Profile        | :red_circle:    |
-| TI Missile               | :red_circle:    |
-| TI Mission               | :red_circle:    |
-| TI Narrative Event       | :red_circle:    |
-| TI Nation                | :red_circle:    |
-| TI Navigable             | :red_circle:    |
-| TI Objective             | :red_circle:    |
-| TI Operation             | :red_circle:    |
-| TI Orbit                 | :red_circle:    |
-| TI Org                   | :red_circle:    |
-| TI Particle Weapon       | :red_circle:    |
-| TI Plasma Weapon         | :red_circle:    |
-| TI Police                | :red_circle:    |
-| TI Power Plan            | :red_circle:    |
-| TI Priority Present      | :blue_circle:   |
-| TI Project               | :red_circle:    |
-| TI Radiator              | :red_circle:    |
-| TI Region                | :red_circle:    |
-| TI Resource Cost         | :red_circle:    |
-| TI Ship Armor            | :red_circle:    |
-| TI Ship Command          | :red_circle:    |
-| TI Ship Hull             | :red_circle:    |
-| TI Space Body            | :red_circle:    |
-| TI Tech                  | :red_circle:    |
-| TI Trait                 | :red_circle:    |
-| TI Utilitary Module      | :red_circle:    |
-| TI Victory               | :red_circle:    |
-| UI Army                  | :blue_circle:   |
-| UI Codex                 | :yellow_circle: |
-| UI Council               | :blue_circle:   |
-| UI Councilor             | :red_circle:    |
-| UI Councilor Chat        | :red_circle:    |
-| UI Fleets                | :red_circle:    |
-| UI General Controls      | :red_circle:    |
-| UI Global                | :green_circle:  |
-| UI Habs                  | :red_circle:    |
-| UI Intel                 | :yellow_circle: |
-| UI Markers               | :blue_circle:   |
-| UI Mission Phase         | :blue_circle:   |
-| UI Nation                | :red_circle:    |
-| UI Nations               | :red_circle:    |
-| UI Notifications         | :yellow_circle: |
-| UI Objectives            | :yellow_circle: |
-| UI Operations            | :red_circle:    |
-| UI Options               | :blue_circle:   |
-| UI Science               | :blue_circle:   |
-| UI Space                 | :red_circle:    |
-| UI Space Combat          | :red_circle:    |
-| UI Start Screen          | :yellow_circle: |
+| Files                    | Status                |
+|--------------------------|-----------------------|
+| TI Army                  | :yellow_circle:       |
+| TI Batterry              | :large_blue_circle:   |
+| TI Cinematics            | :large_blue_circle:   |
+| TI Condition             | :yellow_circle:       |
+| TI Councilor             | :red_circle:          |
+| TI Councilor Type        | :yellow_circle:       |
+| TI Drive                 | :red_circle:          |
+| TI Effect                | :red_circle:          |
+| TI Faction               | :yellow_circle:       |
+| TI Faction Ideology      | :red_circle:          |
+| TI Formation             | :red_circle:          |
+| TI Gun                   | :red_circle:          |
+| TI Hab Module            | :red_circle:          |
+| TI Hab Site              | :red_circle:          |
+| TI Hab                   | :red_circle:          |
+| TI Heat Sink             | :red_circle:          |
+| TI Laser Weapon          | :red_circle:          |
+| TI Magnetic Gun          | :red_circle:          |
+| TI Meta                  | :yellow_circle:       |
+| TI Mining Profile        | :red_circle:          |
+| TI Missile               | :red_circle:          |
+| TI Mission               | :red_circle:          |
+| TI Narrative Event       | :red_circle:          |
+| TI Nation                | :red_circle:          |
+| TI Navigable             | :red_circle:          |
+| TI Objective             | :red_circle:          |
+| TI Operation             | :red_circle:          |
+| TI Orbit                 | :red_circle:          |
+| TI Org                   | :red_circle:          |
+| TI Particle Weapon       | :red_circle:          |
+| TI Plasma Weapon         | :red_circle:          |
+| TI Police                | :red_circle:          |
+| TI Power Plan            | :red_circle:          |
+| TI Priority Present      | :large_blue_circle:   |
+| TI Project               | :red_circle:          |
+| TI Radiator              | :red_circle:          |
+| TI Region                | :red_circle:          |
+| TI Resource Cost         | :red_circle:          |
+| TI Ship Armor            | :red_circle:          |
+| TI Ship Command          | :red_circle:          |
+| TI Ship Hull             | :red_circle:          |
+| TI Space Body            | :red_circle:          |
+| TI Tech                  | :red_circle:          |
+| TI Trait                 | :red_circle:          |
+| TI Utilitary Module      | :red_circle:          |
+| TI Victory               | :red_circle:          |
+| UI Army                  | :large_blue_circle:   |
+| UI Codex                 | :yellow_circle:       |
+| UI Council               | :large_blue_circle:   |
+| UI Councilor             | :red_circle:          |
+| UI Councilor Chat        | :red_circle:          |
+| UI Fleets                | :red_circle:          |
+| UI General Controls      | :red_circle:          |
+| UI Global                | :green_circle:        |
+| UI Habs                  | :red_circle:          |
+| UI Intel                 | :yellow_circle:       |
+| UI Markers               | :large_blue_circle:   |
+| UI Mission Phase         | :large_blue_circle:   |
+| UI Nation                | :red_circle:          |
+| UI Nations               | :red_circle:          |
+| UI Notifications         | :yellow_circle:       |
+| UI Objectives            | :yellow_circle:       |
+| UI Operations            | :red_circle:          |
+| UI Options               | :large_blue_circle:   |
+| UI Science               | :large_blue_circle:   |
+| UI Space                 | :red_circle:          |
+| UI Space Combat          | :red_circle:          |
+| UI Start Screen          | :yellow_circle:       |
