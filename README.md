@@ -31,7 +31,7 @@
 | TI Councilor             | :large_blue_circle:   |
 | TI Councilor Type        | :large_blue_circle:   |
 | TI Drive                 | :red_circle:          |
-| TI Effect                | :red_circle:          |
+| TI Effect                | :yellow_circle:       |
 | TI Faction               | :yellow_circle:       |
 | TI Faction Ideology      | :large_blue_circle:   |
 | TI Formation             | :large_blue_circle:   |
@@ -82,13 +82,13 @@
 | UI Intel                 | :yellow_circle:       |
 | UI Markers               | :large_blue_circle:   |
 | UI Mission Phase         | :large_blue_circle:   |
-| UI Nation                | :red_circle:          |
+| UI Nation                | :yellow_circle:       |
 | UI Nations               | :red_circle:          |
 | UI Notifications         | :yellow_circle:       |
 | UI Objectives            | :yellow_circle:       |
 | UI Operations            | :red_circle:          |
 | UI Options               | :large_blue_circle:   |
 | UI Science               | :large_blue_circle:   |
-| UI Space                 | :red_circle:          |
-| UI Space Combat          | :red_circle:          |
+| UI Space                 | :large_blue_circle:   |
+| UI Space Combat          | :yellow_circle:       |
 | UI Start Screen          | :yellow_circle:       |
