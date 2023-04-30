@@ -35,7 +35,7 @@
 | TI Faction               | :yellow_circle:       |
 | TI Faction Ideology      | :large_blue_circle:   |
 | TI Formation             | :large_blue_circle:   |
-| TI Gun                   | :red_circle:          |
+| TI Gun                   | :large_blue_circle:   |
 | TI Hab Module            | :red_circle:          |
 | TI Hab Site              | :red_circle:          |
 | TI Hab                   | :red_circle:          |
