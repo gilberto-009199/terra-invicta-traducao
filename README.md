@@ -32,7 +32,7 @@
 | TI Councilor Type        | :large_blue_circle:   |
 | TI Drive                 | :red_circle:          |
 | TI Effect                | :yellow_circle:       |
-| TI Faction               | :yellow_circle:       |
+| TI Faction               | :large_blue_circle:   |
 | TI Faction Ideology      | :large_blue_circle:   |
 | TI Formation             | :large_blue_circle:   |
 | TI Gun                   | :large_blue_circle:   |
@@ -45,11 +45,11 @@
 | TI Meta                  | :yellow_circle:       |
 | TI Mining Profile        | :red_circle:          |
 | TI Missile               | :red_circle:          |
-| TI Mission               | :red_circle:          |
+| TI Mission               | :large_blue_circle:   |
 | TI Narrative Event       | :red_circle:          |
 | TI Nation                | :red_circle:          |
 | TI Navigable             | :red_circle:          |
-| TI Objective             | :red_circle:          |
+| TI Objective             | :yellow_circle:       |
 | TI Operation             | :red_circle:          |
 | TI Orbit                 | :red_circle:          |
 | TI Org                   | :red_circle:          |
