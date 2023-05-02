@@ -56,7 +56,7 @@
 | TI Objective             | :yellow_circle:       |
 | TI Operation             | :red_circle:          |
 | TI Orbit                 | :red_circle:          |
-| TI Org                   | :red_circle:          |
+| TI Org                   | :large_blue_circle:   |
 | TI Particle Weapon       | :red_circle:          |
 | TI Plasma Weapon         | :red_circle:          |
 | TI Police                | :red_circle:          |
