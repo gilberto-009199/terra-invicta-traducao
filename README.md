@@ -90,7 +90,7 @@
 | UI Nations               | :red_circle:          |
 | UI Notifications         | :yellow_circle:       |
 | UI Objectives            | :yellow_circle:       |
-| UI Operations            | :red_circle:          |
+| UI Operations            | :large_blue_circle:   |
 | UI Options               | :large_blue_circle:   |
 | UI Science               | :large_blue_circle:   |
 | UI Space                 | :large_blue_circle:   |
