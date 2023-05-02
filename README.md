@@ -78,11 +78,11 @@
 | UI Codex                 | :yellow_circle:       |
 | UI Council               | :large_blue_circle:   |
 | UI Councilor             | :red_circle:          |
-| UI Councilor Chat        | :red_circle:          |
+| UI Councilor Chat        | :large_blue_circle:   |
 | UI Fleets                | :red_circle:          |
 | UI General Controls      | :red_circle:          |
 | UI Global                | :green_circle:        |
-| UI Habs                  | :red_circle:          |
+| UI Habs                  | :large_blue_circle:   |
 | UI Intel                 | :yellow_circle:       |
 | UI Markers               | :large_blue_circle:   |
 | UI Mission Phase         | :large_blue_circle:   |
