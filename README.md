@@ -34,7 +34,7 @@
 | TI Condition             | :large_blue_circle:   |
 | TI Councilor             | :large_blue_circle:   |
 | TI Councilor Type        | :large_blue_circle:   |
-| TI Drive                 | :red_circle:          |
+| TI Drive                 | :yellow_circle:       |
 | TI Effect                | :yellow_circle:       |
 | TI Faction               | :large_blue_circle:   |
 | TI Faction Ideology      | :large_blue_circle:   |
