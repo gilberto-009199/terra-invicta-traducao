@@ -58,27 +58,27 @@ TIObjectiveTemplate.MilestoneFulfilled.AlienMegafaunaSpawns=Monstros alienígena
 TIObjectiveTemplate.MilestoneFulfilled.Summary.AlienMegafaunaSpawns=Uma enorme nova espécie alienígena foi detectada na Terra.
 TIObjectiveTemplate.MilestoneFulfilled.Detail.AlienMegafaunaSpawns=A Terra alterada por alienígenas estava estranhamente silenciosa até este momento, mas agora, silhuetas monstruosas e pesadas vagam pela vegetação alienígena. Até agora, havia quem negasse a presença de seres extraterrestres em nosso planeta, mas as imagens surpreendentes dessas novas entidades imensas são a amostra que destrói as convicções até dos mais ferrenhos descrentes.<br/><br/>Seu titânico aparência cobre a luz e a Terra treme a cada passo. Árvores e prédios desabam como se fossem de papel, ou são dilacerados por tentáculos como se fossem meros talos. Mesmo a quilômetros de distância, o próprio ar parece ser cortado por seu grito ensurdecedor. O mundo inteiro já sabe: os gigantes estão entre nós.
 
-TIObjectiveTemplate.MilestoneFulfilled.TutorialAssignMission=Asignó una misión
-TIObjectiveTemplate.MilestoneFulfilled.TutorialGainControlPoint=Obtuvo un punto de control
-TIObjectiveTemplate.MilestoneFulfilled.TutorialCheckNationalPriority=Comprobó las prioridades de una nación
-TIObjectiveTemplate.MilestoneFulfilled.TutorialSetResearchPriority=Estableció prioridades de investigación
-TIObjectiveTemplate.MilestoneFulfilled.TutorialRecruitCouncilor=Reclutó un consejero
-TIObjectiveTemplate.MilestoneFulfilled.TutorialPurchaseOrg=Compró una organización
-TIObjectiveTemplate.MilestoneFulfilled.TutorialFoundStation=Fundó una estación espacial
-TIObjectiveTemplate.MilestoneFulfilled.TutorialProbeSpaceBody=Analizó un cuerpo celeste
-TIObjectiveTemplate.MilestoneFulfilled.TutorialFoundBase=Fundó una base
-TIObjectiveTemplate.MilestoneFulfilled.TutorialBuildShip=Construyó una nave espacial
+TIObjectiveTemplate.MilestoneFulfilled.TutorialAssignMission=Atribuir uma missão
+TIObjectiveTemplate.MilestoneFulfilled.TutorialGainControlPoint=Obter um ponto de controle
+TIObjectiveTemplate.MilestoneFulfilled.TutorialCheckNationalPriority=Verifiquei as prioridades de uma nação
+TIObjectiveTemplate.MilestoneFulfilled.TutorialSetResearchPriority=Estabeleça prioridades de pesquisa
+TIObjectiveTemplate.MilestoneFulfilled.TutorialRecruitCouncilor=Recrutar um conselheiro
+TIObjectiveTemplate.MilestoneFulfilled.TutorialPurchaseOrg=Comprar uma organização
+TIObjectiveTemplate.MilestoneFulfilled.TutorialFoundStation=Fundar uma Estação
+TIObjectiveTemplate.MilestoneFulfilled.TutorialProbeSpaceBody=Analisou um corpo celeste
+TIObjectiveTemplate.MilestoneFulfilled.TutorialFoundBase=Fundar uma base
+TIObjectiveTemplate.MilestoneFulfilled.TutorialBuildShip=Construir uma nave espacial
 
-TIObjectiveTemplate.VictorySummary.ResistCouncil=Ataca la base principal de los alienígenas en el cinturón de Kuiper y cierra el agujero de gusano
-TIObjectiveTemplate.VictorySummary.DestroyCouncil=Envía un arma biológica a través del agujero de gusano hacia la base alienígena principal para aniquilarlos
-TIObjectiveTemplate.VictorySummary.ExploitCouncil=Utiliza la tecnología alienígena para dominar a la humanidad en a Terra y a los alienígenas a través de su agujero de gusano
-TIObjectiveTemplate.VictorySummary.EscapeCouncil=Lanza una nave colonial desde el sistema solar hacia Beta Canum Venaticorum
-TIObjectiveTemplate.VictorySummary.SubmitCouncil=Construye una nación alienígena y declara su dominio sobre a Terra en la ONU de Nueva York.
-TIObjectiveTemplate.VictorySummary.AppeaseCouncil=Construye una matriz de estaciones de batalla sobre a Terra para apaciguar a los alienígenas.
-TIObjectiveTemplate.VictorySummary.CooperateCouncil=Viaja a la base alienígena en el cinturón de Kuiper y convéncelos para firmar un tratado.
-TIObjectiveTemplate.VictorySummary.AlienCouncil=Domina a la humanidad
+TIObjectiveTemplate.VictorySummary.ResistCouncil=Ataque a base principal dos alienígenas no cinturão de Kuiper e feche o buraco de minhoca
+TIObjectiveTemplate.VictorySummary.DestroyCouncil=Envie uma arma biológica através do buraco de minhoca em direção à base alienígena principal para aniquilá-los
+TIObjectiveTemplate.VictorySummary.ExploitCouncil=Usar a tecnologia alienígena para dominar a humanidade na Terra e os alienígenas através de seu buraco de minhoca.
+TIObjectiveTemplate.VictorySummary.EscapeCouncil=Lançar uma nave colonizadora do sistema solar em direção a Beta Canum Venaticorum
+TIObjectiveTemplate.VictorySummary.SubmitCouncil=Construa uma nação alienígena e declare domínio sobre a Terra na ONU em Nova York.
+TIObjectiveTemplate.VictorySummary.AppeaseCouncil=Construa uma série de estações de batalha na Terra para apaziguar os alienígenas.
+TIObjectiveTemplate.VictorySummary.CooperateCouncil=Viaje até a base alienígena no Cinturão de Kuiper e convença-os a assinar um tratado.
+TIObjectiveTemplate.VictorySummary.AlienCouncil=Dominar a humanidade
 
-TIObjectiveTemplate.ResourcesGain=Hemos ganado los siguientes recursos: {0}
+TIObjectiveTemplate.ResourcesGain=Ganhamos os seguintes recursos: {0}
 
 
 TIObjectiveTemplate.displayName.TutorialSelectCouncilor.ResistCouncil=Seleccionar uno de tus consejeros durante la fase de misiones.
