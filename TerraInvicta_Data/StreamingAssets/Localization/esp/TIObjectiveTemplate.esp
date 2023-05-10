@@ -81,7 +81,7 @@ TIObjectiveTemplate.VictorySummary.AlienCouncil=Dominar a humanidade
 TIObjectiveTemplate.ResourcesGain=Ganhamos os seguintes recursos: {0}
 
 
-TIObjectiveTemplate.displayName.TutorialSelectCouncilor.ResistCouncil=Seleccionar uno de tus consejeros durante la fase de misiones.
+TIObjectiveTemplate.displayName.TutorialSelectCouncilor.ResistCouncil=Selecione um de seus conselheiros durante a fase de missão.
 TIObjectiveTemplate.solution.TutorialSelectCouncilor.ResistCouncil=Adelanta el reloj del juego hasta que aparezca la siguiente fase de misiones. Luego, selecciona unos de tus consejeros en el mapa interactivo de a Terra.
 
 TIObjectiveTemplate.displayName.TutorialSelectMission.ResistCouncil=Seleccionar una misión de consejero
@@ -92,7 +92,7 @@ TIObjectiveTemplate.solution.TutorialUseMissionSlider.ResistCouncil=Si la misió
 
 TIObjectiveTemplate.displayName.TutorialAssignMission.ResistCouncil=Asignar consejeros a misiones
 TIObjectiveTemplate.solution.TutorialAssignMission.ResistCouncil=Después de que los consejeros tengan misiones asignadas, selecciona el botón de confirmar asignación de misiones.
-TIObjectiveTemplate.description.TutorialAssignMission.ResistCouncil=Las <h>misiones</h> de consejero son la vía principal para extender tu alcance en a Terra. El juego entrará en la <h>fase de misiones</h> dos veces al mes, en la que todas las facciones asignarán misiones a sus consejeros. Las misiones pueden dirigirse a naciones, puntos de control, instalaciones espaciales y otros consejeros.<br/><br/>Las misiones se completarán en una secuencia establecida durante las semanas entre fases de misión. Las misiones defensivas se activarán antes que las misiones naturalmente ofensivas. Aunque algunas misiones tienen éxito automáticamente, la mayoría supone una disputa que requiere una tirada de dados exitosa.
+TIObjectiveTemplate.description.TutorialAssignMission.ResistCouncil=As <h>missões</h> do conselheiro são a principal forma de estender seu alcance no Terra. O jogo entrará na <h>fase de missões</h> duas vezes por mês, na qual todas as facções atribuirão missões a seus conselheiros. As missões podem ter como alvo nações, postos de controle, instalações espaciais e outros conselheiros.<br/><br/>As missões serão concluídas em uma sequência definida durante as semanas entre as fases da missão. As missões defensivas serão acionadas antes das missões naturalmente ofensivas. Embora algumas missões sejam automaticamente bem-sucedidas, a maioria envolve uma disputa que requer uma rolagem de dados bem-sucedida.
 TIObjectiveTemplate.resolution.TutorialAssignMission.ResistCouncil=Podrás asignar nuevas misiones a tus consejeros al comienzo de cada fase de misiones, que tendrá un carácter semanal y pasará a ser quincenal a medida que progrese la partida.<br/><br/><h>Puede que quieras aumentar la velocidad de la partida. Puedes hacerlo usando los controles situados arriba a la derecha.</h>
 
 
