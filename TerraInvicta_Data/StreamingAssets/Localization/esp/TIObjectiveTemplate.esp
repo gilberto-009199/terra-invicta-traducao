@@ -82,17 +82,17 @@ TIObjectiveTemplate.ResourcesGain=Ganhamos os seguintes recursos: {0}
 
 
 TIObjectiveTemplate.displayName.TutorialSelectCouncilor.ResistCouncil=Selecione um de seus conselheiros durante a fase de missão.
-TIObjectiveTemplate.solution.TutorialSelectCouncilor.ResistCouncil=Adelanta el reloj del juego hasta que aparezca la siguiente fase de misiones. Luego, selecciona unos de tus consejeros en el mapa interactivo de a Terra.
+TIObjectiveTemplate.solution.TutorialSelectCouncilor.ResistCouncil=Avance o relógio do jogo até que a próxima fase das missões apareça. Em seguida, selecione um de seus conselheiros no mapa interativo de um Terra.
 
-TIObjectiveTemplate.displayName.TutorialSelectMission.ResistCouncil=Seleccionar una misión de consejero
-TIObjectiveTemplate.solution.TutorialSelectMission.ResistCouncil=Elige una misión de la lista en la parte inferior de la interfaz y haz clic en el objetivo adecuado en el mapa interactivo.
+TIObjectiveTemplate.displayName.TutorialSelectMission.ResistCouncil=Selecione uma missão de conselheiro
+TIObjectiveTemplate.solution.TutorialSelectMission.ResistCouncil=Escolha uma missão na lista na parte inferior da interface e clique no objetivo apropriado no mapa interativo.
 
-TIObjectiveTemplate.displayName.TutorialUseMissionSlider.ResistCouncil=Usar el deslizador de recursos en una misión de consejero
-TIObjectiveTemplate.solution.TutorialUseMissionSlider.ResistCouncil=Si la misión está en disputa, utiliza el deslizador para invertir recursos y mejorar tu probabilidad de éxito.
+TIObjectiveTemplate.displayName.TutorialUseMissionSlider.ResistCouncil=Usando o controle deslizante de recursos em uma missão de conselheiro
+TIObjectiveTemplate.solution.TutorialUseMissionSlider.ResistCouncil=Se a missão estiver em disputa, use a flexa para investir recursos e aumentar sua chance de sucesso.
 
-TIObjectiveTemplate.displayName.TutorialAssignMission.ResistCouncil=Asignar consejeros a misiones
-TIObjectiveTemplate.solution.TutorialAssignMission.ResistCouncil=Después de que los consejeros tengan misiones asignadas, selecciona el botón de confirmar asignación de misiones.
-TIObjectiveTemplate.description.TutorialAssignMission.ResistCouncil=As <h>missões</h> do conselheiro são a principal forma de estender seu alcance no Terra. O jogo entrará na <h>fase de missões</h> duas vezes por mês, na qual todas as facções atribuirão missões a seus conselheiros. As missões podem ter como alvo nações, postos de controle, instalações espaciais e outros conselheiros.<br/><br/>As missões serão concluídas em uma sequência definida durante as semanas entre as fases da missão. As missões defensivas serão acionadas antes das missões naturalmente ofensivas. Embora algumas missões sejam automaticamente bem-sucedidas, a maioria envolve uma disputa que requer uma rolagem de dados bem-sucedida.
+TIObjectiveTemplate.displayName.TutorialAssignMission.ResistCouncil=Designar conselheiros para missões
+TIObjectiveTemplate.solution.TutorialAssignMission.ResistCouncil=Após atribuir missões aos conselheiros, selecione o botão confirmar atribuição de missão.
+TIObjectiveTemplate.description.TutorialAssignMission.ResistCouncil=As <h>missões</h> do conselheiro são a principal forma de ampliar seu alcance no Terra. O jogo entrará na fase de <h>missões</h> duas vezes por mês, na qual todas as facções atribuirão missões aos seus assessores. As missões podem ter várias nações, postos de controle, instalações espaciais e outros assessores.<br/><br/>As missões serão concluídas em uma sequência definida durante as semanas entre as fases da missão. Os erros defensivos serão disparados antes dos erros naturalmente ofensivos. Embora algumas falhas possam acontecer automaticamente, a maioria envolve uma disputa que requer uma jogada de dados em breve.
 TIObjectiveTemplate.resolution.TutorialAssignMission.ResistCouncil=Podrás asignar nuevas misiones a tus consejeros al comienzo de cada fase de misiones, que tendrá un carácter semanal y pasará a ser quincenal a medida que progrese la partida.<br/><br/><h>Puede que quieras aumentar la velocidad de la partida. Puedes hacerlo usando los controles situados arriba a la derecha.</h>
 
 
