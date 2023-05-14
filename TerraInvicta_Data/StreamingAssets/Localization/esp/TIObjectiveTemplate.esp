@@ -215,9 +215,9 @@ TIObjectiveTemplate.displayName.TutorialResearchOutpostCore.ResistCouncil=Pesqui
 TIObjectiveTemplate.solution.TutorialResearchOutpostCore.ResistCouncil=Pesquise o projeto de nucleo de posto avançado para poder criar postos avançados;
 
 TIObjectiveTemplate.displayName.TutorialFoundBase.ResistCouncil=Fundar uma base
-TIObjectiveTemplate.solution.TutorialFoundBase.ResistCouncil=Acumula suficientes recursos para fundar una base. Después, selecciona un cuerpo celeste al que hayas enviado una sonda espacial anteriormente. Selecciona una ubicación para la base, y confirma la operación.
-TIObjectiveTemplate.description.TutorialFoundBase.ResistCouncil=Las bases, al igual que las estaciones, se construyen a partir de módulos que aportan una variedad de beneficios, pero también pueden alojar un complejo minero, que puede suministrar recursos espaciales a otros hábitats mediante una catapulta electromagnética. Tener una red de minas fuera del pozo gravitatorio de a Terra reducirá tu dependencia al impulso, que es muy escaso, y te ayudará a desarrollar tu industria espacial rápidamente.
-TIObjectiveTemplate.resolution.TutorialFoundBase.ResistCouncil=Para construir un complejo minero, apoya el desarrollo de magnetismo avanzado, catapultas electromagnéticas y tecnologías públicas de minería y refinado espacial.
+TIObjectiveTemplate.solution.TutorialFoundBase.ResistCouncil=Acumule recursos suficientes para fundar uma base. Em seguida, selecione um corpo celeste para o qual você já enviou uma sonda espacial. Selecione um local para a base e confirme a operação.
+TIObjectiveTemplate.description.TutorialFoundBase.ResistCouncil=As bases, como as estações, são construídas a partir de módulos que fornecem uma variedade de benefícios, mas também podem abrigar um complexo de mineração, que pode fornecer recursos espaciais a outros habitats por meio de uma catapulta eletromagnética. Ter uma rede de minas fora do poço gravitacional de Terra reduzirá sua dependência de impulso, que está faltando, e ajudará você a desenvolver sua indústria espacial rapidamente.
+TIObjectiveTemplate.resolution.TutorialFoundBase.ResistCouncil=Para construir um complexo de mineração, ele apóia o desenvolvimento de magnetismo avançado, catapultas eletromagnéticas e tecnologias de mineração e refino do espaço público.
 
 
 TIObjectiveTemplate.displayName.TutorialResearchSpaceMining.ResistCouncil=Investigar tecnologías de minería y refinado espacial
