@@ -220,13 +220,13 @@ TIObjectiveTemplate.description.TutorialFoundBase.ResistCouncil=As bases, como a
 TIObjectiveTemplate.resolution.TutorialFoundBase.ResistCouncil=Para construir um complexo de mineração, ele apóia o desenvolvimento de magnetismo avançado, catapultas eletromagnéticas e tecnologias de mineração e refino do espaço público.
 
 
-TIObjectiveTemplate.displayName.TutorialResearchSpaceMining.ResistCouncil=Investigar tecnologías de minería y refinado espacial
-TIObjectiveTemplate.solution.TutorialResearchSpaceMining.ResistCouncil=Investiga las tecnologías de minería y refinado espacial
+TIObjectiveTemplate.displayName.TutorialResearchSpaceMining.ResistCouncil=Pesquisar tecnologias de mineração e refino espacial
+TIObjectiveTemplate.solution.TutorialResearchSpaceMining.ResistCouncil=Pesquise tecnologias de mineração e refino espacial
 
-TIObjectiveTemplate.displayName.TutorialResearchOutpostMining.ResistCouncil=Investigar el proyecto de complejo minero de puesto remoto
-TIObjectiveTemplate.solution.TutorialResearchOutpostMining.ResistCouncil=Investiga el proyecto de complejo minero de puesto remoto, que te permitirá construir módulos mineros en tus bases.
+TIObjectiveTemplate.displayName.TutorialResearchOutpostMining.ResistCouncil=Investigar o projeto de complexo de mineração de posto avançado
+TIObjectiveTemplate.solution.TutorialResearchOutpostMining.ResistCouncil=Pesquise o projeto Complexo de mineração de Posto Avançado, que permitirá que você construa módulos de mineração em suas bases.
 
-TIObjectiveTemplate.displayName.TutorialBuildMine.ResistCouncil=Construir una mina en una de tus bases
+TIObjectiveTemplate.displayName.TutorialBuildMine.ResistCouncil=Construa uma mina em uma de suas bases
 TIObjectiveTemplate.solution.TutorialBuildMine.ResistCouncil=Acumula suficientes recursos para construir una base. Después, selecciona una de tus bases en la ventana de hábitats e inicia la construcción de una mina.
 TIObjectiveTemplate.description.TutorialBuildMine.ResistCouncil= Las minas son esenciales para recopilar recursos espaciales.
 TIObjectiveTemplate.resolution.TutorialBuildMine.ResistCouncil=Los complejos mineros son tu fuente principal de obtención de recursos espaciales, usados para crear tus flotas. Continúa las prospecciones en cuerpos espaciales y establece minas por todo el sistema solar.
