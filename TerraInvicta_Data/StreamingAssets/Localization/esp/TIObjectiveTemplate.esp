@@ -205,16 +205,16 @@ TIObjectiveTemplate.solution.TutorialProbeSpaceBody.ResistCouncil=Selecione um c
 TIObjectiveTemplate.resolution.TutorialProbeSpaceBody.ResistCouncil=A sonda espacial vai demorar um pouco para chegar ao seu destino. Assim que chegar, você poderá fundar uma base depois de desenvolver as tecnologias apropriadas.
 
 
-TIObjectiveTemplate.displayName.TutorialResearchMissionToSpace.ResistCouncil=Investigar tecnología de misión hacia el espacio
-TIObjectiveTemplate.solution.TutorialResearchMissionToSpace.ResistCouncil=Investiga la tecnología de misión hacia el espacio.
+TIObjectiveTemplate.displayName.TutorialResearchMissionToSpace.ResistCouncil=Pesquisar a Tecnologia de missão no espaço
+TIObjectiveTemplate.solution.TutorialResearchMissionToSpace.ResistCouncil=Pesquise a Tecnologia de missão no espaço
 
-TIObjectiveTemplate.displayName.TutorialResearchOutpostHabs.ResistCouncil=Investigar tecnología de hábitats en puestos remotos
-TIObjectiveTemplate.solution.TutorialResearchOutpostHabs.ResistCouncil=Investiga la tecnología de hábitats en puestos remotos.
+TIObjectiveTemplate.displayName.TutorialResearchOutpostHabs.ResistCouncil=Pesquisar a tecnologia de habitat em postos.
+TIObjectiveTemplate.solution.TutorialResearchOutpostHabs.ResistCouncil=Pesquise a tecnologia de habitat em postos avançados.
 
-TIObjectiveTemplate.displayName.TutorialResearchOutpostCore.ResistCouncil=Investigar proyecto de núcleo de puesto remoto
-TIObjectiveTemplate.solution.TutorialResearchOutpostCore.ResistCouncil=Investiga el proyecto de núcleo de puesto remoto para poder fundar puestos remotos
+TIObjectiveTemplate.displayName.TutorialResearchOutpostCore.ResistCouncil=Pesquisar o projeto de núcleo de posto avançado.
+TIObjectiveTemplate.solution.TutorialResearchOutpostCore.ResistCouncil=Pesquise o projeto de nucleo de posto avançado para poder criar postos avançados;
 
-TIObjectiveTemplate.displayName.TutorialFoundBase.ResistCouncil=Fundar una base
+TIObjectiveTemplate.displayName.TutorialFoundBase.ResistCouncil=Fundar uma base
 TIObjectiveTemplate.solution.TutorialFoundBase.ResistCouncil=Acumula suficientes recursos para fundar una base. Después, selecciona un cuerpo celeste al que hayas enviado una sonda espacial anteriormente. Selecciona una ubicación para la base, y confirma la operación.
 TIObjectiveTemplate.description.TutorialFoundBase.ResistCouncil=Las bases, al igual que las estaciones, se construyen a partir de módulos que aportan una variedad de beneficios, pero también pueden alojar un complejo minero, que puede suministrar recursos espaciales a otros hábitats mediante una catapulta electromagnética. Tener una red de minas fuera del pozo gravitatorio de a Terra reducirá tu dependencia al impulso, que es muy escaso, y te ayudará a desarrollar tu industria espacial rápidamente.
 TIObjectiveTemplate.resolution.TutorialFoundBase.ResistCouncil=Para construir un complejo minero, apoya el desarrollo de magnetismo avanzado, catapultas electromagnéticas y tecnologías públicas de minería y refinado espacial.
