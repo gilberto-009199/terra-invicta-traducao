@@ -134,53 +134,53 @@ TIObjectiveTemplate.solution.TutorialRecruitCouncilor3.ResistCouncil=Recrute e m
 TIObjectiveTemplate.displayName.TutorialRecruitCouncilor4.ResistCouncil=Recrute um quarto conselheiro
 TIObjectiveTemplate.solution.TutorialRecruitCouncilor4.ResistCouncil=Recrute e mantenha quatro conselheiros em seu conselho.
 
-TIObjectiveTemplate.displayName.TutorialResearchWeAreNotAlone.ResistCouncil=Investigar «No estamos solos»
-TIObjectiveTemplate.solution.TutorialResearchWeAreNotAlone.ResistCouncil=Investigar la tecnología global «No estamos solos». Esta tecnología es un prerrequisito para el proyecto de las células clandestinas. Una vez se complete la investigación, el proyecto de las células clandestinas estará disponible en breve.
+TIObjectiveTemplate.displayName.TutorialResearchWeAreNotAlone.ResistCouncil=Investigar "Não estamos sozinhos"
+TIObjectiveTemplate.solution.TutorialResearchWeAreNotAlone.ResistCouncil=Investigue a tecnologia global "Não estamos sozinhos." Essa tecnologia é pré-requisito para o projeto das células clandestinas. Assim que a pesquisa estiver concluída, o projeto Clandestine Cells estará disponível em breve.
 
 TIObjectiveTemplate.displayName.TutorialResearchClandestineCells.ResistCouncil=Investigar células clandestinas
-TIObjectiveTemplate.solution.TutorialResearchClandestineCells.ResistCouncil=Investigar el proyecto de las células clandestinas una vez esté disponible. Este proyecto te permite reclutar a un quinto consejero.
+TIObjectiveTemplate.solution.TutorialResearchClandestineCells.ResistCouncil=Pesquise o projeto de células subterrâneas assim que estiver disponível. Este projeto permite que você recrute um quinto conselheiro.
 
-TIObjectiveTemplate.displayName.TutorialBuildCouncil.ResistCouncil=Crear tu consejo
-TIObjectiveTemplate.solution.TutorialBuildCouncil.ResistCouncil=Recluta y mantén cinco consejeros en tu consejo.
-TIObjectiveTemplate.description.TutorialBuildCouncil.ResistCouncil=Tu consejo de facción es el epicentro de tus esfuerzos políticos en a Terra, y desarrollar tu consejo te permitirá realizar más misiones todos los meses. Los consejeros tienen una variedad de atributos, antecedentes, misiones disponibles y rasgos. Construir un consejo que maneje una variedad de tareas nos ayudará a seguir el ritmo de las otras facciones.
-TIObjectiveTemplate.resolution.TutorialBuildCouncil.ResistCouncil=Asegúrate de reclutar varios consejeros con la habilidad de ganar puntos de control en las naciones. Los consejeros con profesiones afines a los objetivos de tu facción costarán menos influencia para reclutarlos.
-
-
-TIObjectiveTemplate.displayName.TutorialPurchaseOrg.ResistCouncil=Adquirir una organización
-TIObjectiveTemplate.solution.TutorialPurchaseOrg.ResistCouncil=Ve a la ventana del consejo, selecciona uno de tus consejeros y adquiere una organización del mercado de organizaciones arrastrando su icono hasta la ventana de tus organizaciones y paga su precio.
-
-TIObjectiveTemplate.displayName.TutorialUnequipOrg.ResistCouncil=Retirar una organización de un consejero
-TIObjectiveTemplate.solution.TutorialUnequipOrg.ResistCouncil=En la ventana del consejo, selecciona uno de tus consejeros con una organización, luego cambia la pestaña de organizaciones por la de organizaciones de la facción. Ahora, haz clic derecho o arrastra la organización equipada hacia el grupo de facciones para retirar la organización de tu consejero. Esto permitirá equipar la organización a otro consejero.
-
-TIObjectiveTemplate.displayName.TutorialEquipOrg.ResistCouncil=Gestionar organizaciones
-TIObjectiveTemplate.solution.TutorialEquipOrg.ResistCouncil=Selecciona uno de tus consejeros en la ventana del consejo, luego haz clic derecho o arrastra una organización desde tu reserva de facciones para equiparla.
-TIObjectiveTemplate.description.TutorialEquipOrg.ResistCouncil=Las organizaciones son agencias gubernamentales, ONG, organizaciones criminales y compañías privadas bajo el control de uno de tus consejeros. Las organizaciones proporcionan bonificaciones de estadísticas, inversiones, misiones, bonificaciones de investigación y bonificaciones para ciertas prioridades para naciones bajo tu control.<br/><br/>Estas se adquieren con dinero, influencia y raramente mediante operaciones (esto es típico para bandas de delincuentes). Algunas organizaciones están disponibles para consejeros con ciertos rasgos o de una cierta nacionalidad.
-TIObjectiveTemplate.resolution.TutorialEquipOrg.ResistCouncil=A veces, las organizaciones no adquiridas estarán disponibles para otras facciones pasado un tiempo. También puedes desarrollar organizaciones mediante proyectos de facción y transferir organizaciones entre consejeros por un pequeño coste.
-
-TIObjectiveTemplate.displayName.TutorialAssignCrackdown.ResistCouncil=Asignar un consejero a una misión de medidas severas
-TIObjectiveTemplate.solution.TutorialAssignCrackdown.ResistCouncil=Utiliza las misiones de medidas severas en naciones enemigas para debilitar los puntos de control y aumentar las probabilidades de éxito en misiones de purga.
-
-TIObjectiveTemplate.displayName.TutorialAssignPurge.ResistCouncil=Asignar un consejero a una misión de purga
-TIObjectiveTemplate.solution.TutorialAssignPurge.ResistCouncil=Utiliza las misiones de purga en puntos de control enemigos para arrebatarle el control a una facción enemiga. Es muy recomendable usar medidas severas primero para deshabilitar cualquier ventaja que puedan tener y aumentar la probabilidad de éxito.
-TIObjectiveTemplate.description.TutorialAssignPurge.ResistCouncil=Controlar naciones es vital para establecer un punto de apoyo e incrementar tu investigación y recursos y así poder adentrarte en el sistema solar. A veces, una facción enemiga puede controlar puntos de control en una nación que deseas controlar. Para controlar esos puntos de control de otra facción, debes enviar a tus consejeros en misiones de medidas severas y purga. Las medidas severas debilitarán el punto de control. Continúa con la purga para robar el punto de control para tu facción.
-TIObjectiveTemplate.resolution.TutorialAssignPurge.ResistCouncil=Purgar los puntos de control enemigos es una herramienta valiosa en tu arsenal. Vigila los puntos de control enemigos sin defensas, que son susceptibles de ser ocupados.
+TIObjectiveTemplate.displayName.TutorialBuildCouncil.ResistCouncil=Crie seu conselho
+TIObjectiveTemplate.solution.TutorialBuildCouncil.ResistCouncil=Recrute e mantenha cinco conselheiros em seu conselho.
+TIObjectiveTemplate.description.TutorialBuildCouncil.ResistCouncil=Seu conselho de facção é o epicentro de seus esforços políticos em uma Terra, e desenvolver seu conselho permitirá que você aceite mais missões a cada mês. Conselheiros têm uma variedade de atributos, antecedentes, missões disponíveis e características. Construir um conselho que lide com uma variedade de tarefas nos ajudará a acompanhar as outras facções.
+TIObjectiveTemplate.resolution.TutorialBuildCouncil.ResistCouncil=Certifique-se de recrutar vários conselheiros com a capacidade de obter pontos de controle nas nações. Conselheiros com profissões relacionadas aos objetivos de sua facção custarão menos influência para recrutar.
 
 
-TIObjectiveTemplate.displayName.TutorialAssignDefendInterests.ResistCouncil=Asignar un consejero a una misión de defender intereses
+TIObjectiveTemplate.displayName.TutorialPurchaseOrg.ResistCouncil=Adquira uma organização
+TIObjectiveTemplate.solution.TutorialPurchaseOrg.ResistCouncil=Vá para a janela do conselho, selecione um de seus conselheiros e compre uma organização do mercado de organizações arrastando seu ícone para a janela de sua organização e pague seu preço.
+
+TIObjectiveTemplate.displayName.TutorialUnequipOrg.ResistCouncil=Remover uma organização de um conselheiro
+TIObjectiveTemplate.solution.TutorialUnequipOrg.ResistCouncil=No painel do conselho, selecione um de seus conselheiros com uma organização e, em seguida, altere a guia de organizações para as organizações da facção. Agora, clique com o botão direito ou arraste a organização equipada para o grupo de facção para remover a organização do seu conselheiro. Isso permitirá que a organização equipar outro conselheiro.
+
+TIObjectiveTemplate.displayName.TutorialEquipOrg.ResistCouncil=Gerenciar organizações
+TIObjectiveTemplate.solution.TutorialEquipOrg.ResistCouncil=Selecione um de seus conselheiros na janela de conselhos e clique com o botão direito do mouse ou arraste uma organização de sua facção para equipá-la.
+TIObjectiveTemplate.description.TutorialEquipOrg.ResistCouncil=As organizações são agências governamentais, ONGs, organizações criminosas e empresas privadas sob o controle de um de seus consultores. As organizações fornecem bônus de estatísticas, investimentos, missões, bônus de pesquisa e bônus para certas prioridades para as nações sob seu controle.<br/><br/>Eles são adquiridos com dinheiro, influência e raramente por meio de operações (isso é típico de gangues) . de criminosos). Algumas organizações estão abertas a diretores com determinadas características ou de uma determinada nacionalidade.
+TIObjectiveTemplate.resolution.TutorialEquipOrg.ResistCouncil=Às vezes, organizações não adquiridas ficam disponíveis para outras facções depois de um tempo. Você também pode desenvolver organizações por meio de projetos de facções e transferir organizações entre conselheiros por um pequeno custo.
+
+TIObjectiveTemplate.displayName.TutorialAssignCrackdown.ResistCouncil=Designe um conselheiro para uma missão de medidas severas
+TIObjectiveTemplate.solution.TutorialAssignCrackdown.ResistCouncil=Use missões de repressão em nações inimigas para enfraquecer os postos de controle e aumentar as chances de sucesso nas missões de expurgo.
+
+TIObjectiveTemplate.displayName.TutorialAssignPurge.ResistCouncil=Designe um conselheiro para uma missão de expurgo
+TIObjectiveTemplate.solution.TutorialAssignPurge.ResistCouncil=Use missões de purga em postos de controle inimigos para tomar o controle de uma facção inimiga. É altamente recomendável usar medidas severas primeiro para desativar quaisquer vantagens que possam ter e aumentar a chance de sucesso.
+TIObjectiveTemplate.description.TutorialAssignPurge.ResistCouncil=Controlar as nações é vital para estabelecer uma posição e aumentar sua pesquisa e recursos para que você possa se aventurar no sistema solar. Às vezes, uma facção inimiga pode controlar pontos de controle em uma nação que você deseja controlar. Para controlar esses outros pontos de verificação de facção, você precisa enviar seus conselheiros em missões de repressão e expurgo. Medidas severas enfraquecerão o posto de controle. Continue a limpeza para roubar o ponto de controle de sua facção.
+TIObjectiveTemplate.resolution.TutorialAssignPurge.ResistCouncil=Limpar checkpoints inimigos é uma ferramenta valiosa em seu arsenal. Fique de olho nos pontos de controle inimigos indefesos, que provavelmente estarão ocupados.
+
+
+TIObjectiveTemplate.displayName.TutorialAssignDefendInterests.ResistCouncil=Designar um conselheiro para uma missão de defesa de interesses
 TIObjectiveTemplate.solution.TutorialAssignDefendInterests.ResistCouncil=Usa misiones de defender intereses en naciones con puntos de control bajo tu mando para protegerlos de las misiones de consejero enemigas. Las misiones hostiles tienen menos probabilidades de éxito en los puntos de control que cuenten con defensas.
-TIObjectiveTemplate.description.TutorialAssignDefendInterests.ResistCouncil=Defender intereses es una herramienta defensiva útil para prevenir que las facciones enemigas lleven a cabo con éxito misiones de medidas severas, purga y golpe de estado. Es muy recomendable defender tus naciones más valiosas. Las protecciones no duran para siempre, por lo que hay que renovarlas periódicamente.
-TIObjectiveTemplate.resolution.TutorialAssignDefendInterests.ResistCouncil=Defiende intereses para proteger tus naciones valiosas contra las medidas enemigas de medidas severas, purga y golpe de estado.
+TIObjectiveTemplate.description.TutorialAssignDefendInterests.ResistCouncil=Defender interesses é uma ferramenta defensiva útil para impedir que facções inimigas realizem com sucesso missões de repressão, expurgo e golpe. Defender suas nações mais valiosas é altamente recomendado. As proteções não duram para sempre, por isso devem ser renovadas periodicamente.
+TIObjectiveTemplate.resolution.TutorialAssignDefendInterests.ResistCouncil=Defenda interesses para proteger suas valiosas nações contra repressão inimiga, expurgos e medidas de golpe.
 
-TIObjectiveTemplate.displayName.TutorialAssignIncreaseUnrest.ResistCouncil=Asignar un consejero a una misión de incrementar el malestar
-TIObjectiveTemplate.solution.TutorialAssignIncreaseUnrest.ResistCouncil=Usa la misión de incrementar el malestar para debilitar la economía de las naciones elegidas. Esto hará que los golpes de estado, las revoluciones y las secesiones cuenten con más probabilidades de tener éxito.
+TIObjectiveTemplate.displayName.TutorialAssignIncreaseUnrest.ResistCouncil=Designe um conselheiro para uma missão de aumentar a agitação
+TIObjectiveTemplate.solution.TutorialAssignIncreaseUnrest.ResistCouncil=Use a missão Raise Unrest para enfraquecer a economia das nações escolhidas. Isso aumentará a probabilidade de sucesso de golpes, revoluções e secessão.
 
-TIObjectiveTemplate.displayName.TutorialAssignCoup.ResistCouncil=Asignar un consejero a una misión de golpe de estado
-TIObjectiveTemplate.solution.TutorialAssignCoup.ResistCouncil=Envía a tu consejero a una misión de golpe de estado en una nación controlada por otra facción. Un golpe de estado que tenga éxito derrocará el gobierno y restablecerá todos los puntos de control.
-TIObjectiveTemplate.description.TutorialAssignCoup.ResistCouncil=Los golpes de estado se utilizan para restablecer los puntos de control en una nación controlada por el enemigo. Los golpes de estado tienen más posibilidades de éxito en naciones con gran malestar. Usa la misión de aumentar malestar antes de cometer el golpe de estado.
-TIObjectiveTemplate.resolution.TutorialAssignCoup.ResistCouncil=Aumenta el malestar para debilitar la economía de la nación enemiga y continúa con un golpe de estado para derrocar al gobierno y restablecer los puntos de control de la nación.
+TIObjectiveTemplate.displayName.TutorialAssignCoup.ResistCouncil=Designe um conselheiro para uma missão de golpe
+TIObjectiveTemplate.solution.TutorialAssignCoup.ResistCouncil=Envie seu conselheiro em uma missão de golpe em uma nação controlada por outra facção. Um golpe bem-sucedido derrubará o governo e redefinirá todos os postos de controle.
+TIObjectiveTemplate.description.TutorialAssignCoup.ResistCouncil=Os golpes são usados ​​para redefinir os pontos de verificação em uma nação controlada pelo inimigo. Os golpes têm maior probabilidade de sucesso em nações com grande mal-estar. Use a missão Raise Unrest antes de cometer o golpe.
+TIObjectiveTemplate.resolution.TutorialAssignCoup.ResistCouncil=Aumente a agitação para enfraquecer a economia da nação inimiga e siga com um golpe para derrubar o governo e redefinir os postos de controle da nação.
 
 
-TIObjectiveTemplate.displayName.TutorialFoundStation.ResistCouncil=Fundar una estación
+TIObjectiveTemplate.displayName.TutorialFoundStation.ResistCouncil=Fundar uma estação
 TIObjectiveTemplate.description.TutorialFoundStation.ResistCouncil=Las estaciones espaciales, o plataformas, son el punto de apoyo de la humanidad en el espacio exterior, fundamentales para industrializar el espacio y construir una flota de guerra. Las estaciones se componen de módulos que garantizan bonificaciones para investigación y otros recursos, y permiten la construcción de naves y módulos adicionales. Deberíamos comenzar a acumular <h>impulso</h> y unos cuantos puntos de <h>control de misiones</h> para prepararnos para fundar una estación. 
 TIObjectiveTemplate.solution.TutorialFoundStation.ResistCouncil=Ahorra suficiente dinero, impulso y control de misiones para permitirte lanzar un módulo de núcleo de plataforma. Entonces, aleja la vista de a Terra hasta una distancia en la que las fronteras de la naciones dejen de ser visibles y haz clic en el planeta. Selecciona el icono de fundar plataforma ubicado entre los iconos de la parte inferior de la pantalla. Selecciona una órbita alrededor de a Terra en la que residirá la estación y haz clic para confirmar en el botón de fundar plataforma.<br/><br/><h>Puede que hagan falta varios meses para conseguirlo.</h>
 TIObjectiveTemplate.resolution.TutorialFoundStation.ResistCouncil=Las estaciones se irán volviendo más y más importantes para nuestros planes. Cuando lo creas oportuno, considera la idea de investigar la tecnología de los orbitales para desarrollar estaciones más grandes. Para construir estaciones más allá de a Terra, tendremos que completar los proyectos de investigación pública llamados «Misión hacia...». 
