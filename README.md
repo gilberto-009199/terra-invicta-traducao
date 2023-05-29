@@ -50,7 +50,7 @@
 | TI Mining Profile        | :red_circle:          |
 | TI Missile               | :red_circle:          |
 | TI Mission               | :large_blue_circle:   |
-| TI Narrative Event       | :red_circle:          |
+| TI Narrative Event       | :yellow_circle:       |
 | TI Nation                | :red_circle:          |
 | TI Navigable             | :red_circle:          |
 | TI Objective             | :yellow_circle:       |
