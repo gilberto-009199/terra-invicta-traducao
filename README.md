@@ -64,7 +64,7 @@
 | TI Priority Present      | :large_blue_circle:   |
 | TI Project               | :red_circle:          |
 | TI Radiator              | :red_circle:          |
-| TI Region                | :red_circle:          |
+| TI Region                | :large_blue_circle:   |
 | TI Resource Cost         | :red_circle:          |
 | TI Ship Armor            | :red_circle:          |
 | TI Ship Command          | :red_circle:          |
