@@ -17,3 +17,4 @@ UI.MissionPhase.NoTargetLocation=Alguns objetivos de missão podem não ser poss
 UI.MissionPhase.BadTrait={0}: {1}
 UI.MissionPhase.NoTargetsHelp=Este conselheiro não pode fazer esta missão porque não há alvos válidos para fazê-la. Os objetivos desta missão podem ser invalidados por vários motivos, incluindo:
 UI.MissionPhase.Unknown=Desconhecido
+UI.MissionPhase.AIWorking=Os inimigos estão planejando
