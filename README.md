@@ -53,7 +53,7 @@
 | TI Narrative Event       | :yellow_circle:       |
 | TI Nation                | :red_circle:          |
 | TI Navigable             | :red_circle:          |
-| TI Objective             | :yellow_circle:       |
+| TI Objective             | :large_blue_circle:   |
 | TI Operation             | :red_circle:          |
 | TI Orbit                 | :red_circle:          |
 | TI Org                   | :large_blue_circle:   |
